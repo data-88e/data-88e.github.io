@@ -32,6 +32,10 @@ a.anchor-link {
 
 /* Calendar */
 
+table {
+  width: 100%;
+}
+
 .calendar table, .calendar th, .calendar tr, .calendar td {
   border: 1px solid black;
 }
