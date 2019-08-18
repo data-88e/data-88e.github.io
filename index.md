@@ -1,7 +1,11 @@
 <link rel="stylesheet" href="sp17/theme/css/main.css" />
 
-Data 8: The Foundations of Data Science
+Data 88
 ====
+
+Description
+
+<!--
 
 The UC Berkeley Foundations of Data Science course combines three perspectives:
 inferential thinking, computational thinking, and real-world relevance. Given
@@ -12,6 +16,8 @@ hands-on analysis of real-world datasets, including economic data, document
 collections, geographical data, and social networks. It delves into social
 issues surrounding data analysis such as privacy and design.
 
+-->
+
 The course is offered in partnership with the [Berkeley Division of Data Sciences](http://data.berkeley.edu). 
 
 Offerings
@@ -20,17 +26,11 @@ Offerings
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
--  [Summer 2019](./su19)
--  [Spring 2019](./sp19)
--  [Fall 2018](./fa18)
--  [Summer 2018](./su18)
--  [Spring 2018](./sp18)
--  [Fall 2017](./fa17)
--  [Summer 2017](./su17)
--  [Spring 2017](./sp17)
--  [Fall 2016](./fa16)
--  [Spring 2016](https://data-8.appspot.com/sp16/course)
--  [Fall 2015](./fa15)
+_Fall 2019:_
+
+- [Economic Models](econ-fa19)
+
+<!--
 
 Materials
 ---
@@ -105,3 +105,5 @@ If you want more information about any of these tools, please fill out our [Data
 8 Instructor
 Interest](https://docs.google.com/forms/d/e/1FAIpQLSfFvhl3DOuZZB2fV2FY3qcmBGoG17BwxIhWP91G7rcVqaEguA/viewform)
 form or email `denero@berkeley.edu`.
+
+-->
