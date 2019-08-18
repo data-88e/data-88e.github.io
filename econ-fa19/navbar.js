@@ -20,7 +20,7 @@ var html = `
         	<li><a>|</a></li>
             <!-- <li><a href="./faq.html">FAQ</a></li> -->
             <li><a href="./policies.html">Policies</a></li>
-            <li><a href="./staff.html">Staff</a></li>
+            <!-- <li><a href="./staff.html">Staff</a></li> -->
 
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
