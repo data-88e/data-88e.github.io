@@ -16,6 +16,8 @@ var html = `
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
 
+        	<li><a href=".">EconModels</a></li>
+        	<li><a>|</a></li>
             <!-- <li><a href="./faq.html">FAQ</a></li> -->
             <li><a href="./policies.html">Policies</a></li>
             <li><a href="./staff.html">Staff</a></li>
