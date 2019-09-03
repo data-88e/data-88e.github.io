@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Data 88</title>
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="./theme/css/main.css" />
+
+        <link rel="icon" href="./assets/images/favicon.ico" />
+
+        <!-- MathJax script -->
+        <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+        </script>
+
+        <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+        </script>
+
+        
+</head>
+
+<body id="index" class="home">
+
+  <script type="text/javascript" src="navbar.js"></script>
+
+  <div class="container">
+
+    <div style="margin-top: 50px;"></div>
+
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfe-uVMpzcml5j-1kV3_UIUx7dd5UVseaf5W7PAW75tbBqhKw/viewform?embedded=true" width=100% height="1531" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  
+  </div>
+
+<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: 'center'," +
+        "    displayIndent: '0em'," +
+        "    showMathMenu: true," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['$','$'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
+        "    } " +
+        "}); ";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
+
+
+</section><!-- /#content -->
+  </div>
+  <footer id="contentinfo" class="body">
+  </footer><!-- /#contentinfo -->
+
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Latest compiled and minified Bootstrap JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script>
+  $(document).ready(function() {
+
+    // Announcements
+    var announcementIndex = 0;
+
+    function setAnnouncements(offset) {
+      var newIndex = announcementIndex  + offset;
+      var announcementNumber = $('.announcement').length;
+
+      if (newIndex < 0 || newIndex >= announcementNumber) {
+        return;
+      }
+
+      $('#announcement-' + announcementIndex).hide(0, function() {
+        $('#announcement-' + newIndex).show(0);
+      });
+
+      announcementIndex = newIndex;
+
+      if (announcementIndex >= announcementNumber - 1) {
+        $('#announcement-' + announcementIndex + ' .announcement-btn-older')
+          .addClass('disabled');
+      }
+      if (announcementIndex === 0) {
+        $('#announcement-' + announcementIndex + ' .announcement-btn-newer')
+          .addClass('disabled');
+      }
+    }
+    setAnnouncements(0);
+
+    $('.announcement-btn-newer > a').click(function() {
+      setAnnouncements(-1);
+    });
+    $('.announcement-btn-older > a').click(function() {
+      setAnnouncements(1);
+    });
+  });
+
+</script>
+
+</body>
+</html>

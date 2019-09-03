@@ -23,6 +23,7 @@ var html = `
             <!-- <li><a href="./staff.html">Staff</a></li> -->
             <li><a href="https://piazza.com/berkeley/fall2019/data88" target="_blank">Piazza</a></li>
             <li><a href="https://www.gradescope.com/courses/56798" target="_blank">Gradescope</a></li>
+            <li><a href="att.html">Attendance</a></li>
 
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
