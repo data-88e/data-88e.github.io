@@ -17,7 +17,7 @@ var html = `
             <ul class="navbar-nav ml-auto justify-content-end">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">EconModels</a>
+                    <a class="nav-link" href="./">EconModels</a>
                 </li>
 
                 <li class="nav-item">
@@ -40,15 +40,17 @@ var html = `
                     <a class="nav-link" href="attendance.html">Attendance</a>
                 </li>
 
-                <li class="dropdown nav-item">
-                  <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                        <!-- <li><a href="./materials.html">Materials</a></li> -->
-                        <li><a href="./python-reference.html">Python Reference</a></li>
-                        <li><a href="http://data8.org/datascience/" target="_blank">Datascience Docs</a></li>
-                  </ul>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Resources
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="./python-reference.html">Python Reference</a>
+                    <a class="dropdown-item" href="http://data8.org/datascience/">Datascience Docs</a>
+                  </div>
                 </li>
 
+                
             </ul>
 
         </div>
