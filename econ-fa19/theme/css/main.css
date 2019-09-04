@@ -3,11 +3,15 @@ html {
 }
 
 body {
-  padding-top: 50px;
+  /*padding-top: 50px;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
+}
+
+h2:nth-of-type(1) {
+  margin-top: 20px;
 }
 
 h3 {
@@ -28,6 +32,32 @@ a.anchor-link {
 }
 .announcement .pager {
   text-align: left;
+}
+
+div.bd-example ol.carousel-indicators li {
+  background-color: #000;
+}
+
+div#announcements div.announcement-back {
+  background: none; 
+  height: 200px;
+}
+
+.carousel-caption {
+  color: black;
+}
+
+i.fa-chevron-left, i.fa-chevron-right {
+  color: black;
+  font-size: 20pt;
+}
+
+.carousel-caption ul li {
+  text-align: left;
+}
+
+.carousel-control-next:hover {
+  color: black;
 }
 
 /* Calendar */
