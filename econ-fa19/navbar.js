@@ -1,6 +1,6 @@
 var html = `
-<nav class="navbar navbar-light bg-light navbar-expand-lg sticky-tp[">
-    <!-- <div class="container"> -->
+<nav class="navbar navbar-light bg-light navbar-expand-lg position-sticky fixed-top">
+    <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="./">
           <img src="assets/images/blue_text.png" height="25px" />
@@ -14,7 +14,7 @@ var html = `
 
       <div class="collapse navbar-collapse" id="navbarLinks">
 
-            <ul class="navbar-nav mr-auto justify-content-end">
+            <ul class="navbar-nav ml-auto justify-content-end">
 
                 <li class="nav-item">
                     <a class="nav-link" href="#">EconModels</a>
@@ -51,6 +51,7 @@ var html = `
 
             </ul>
 
+        </div>
         </div>
   </nav>
   `;
