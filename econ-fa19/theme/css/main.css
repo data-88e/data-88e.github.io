@@ -34,6 +34,32 @@ a.anchor-link {
   text-align: left;
 }
 
+div.bd-example ol.carousel-indicators li {
+  background-color: #000;
+}
+
+div#announcements div.announcement-back {
+  background: none; 
+  height: 200px;
+}
+
+.carousel-caption {
+  color: black;
+}
+
+i.fa-chevron-left, i.fa-chevron-right {
+  color: black;
+  font-size: 20pt;
+}
+
+.carousel-caption ul li {
+  text-align: left;
+}
+
+.carousel-control-next:hover {
+  color: black;
+}
+
 /* Calendar */
 
 table {
