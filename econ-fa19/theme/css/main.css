@@ -82,6 +82,16 @@ table {
   background-color: #e6e8f2;
 }
 
+.calendar .list-group .list-group-item {
+  border: none;
+  padding: .3rem .7rem;
+}
+
+.calendar .list-group.monday .list-group-item {
+  background-color: #e6e8f2;
+  border: none;
+}
+
 .calendar tr.wednesday {
   background-color: #f2f4f8;
 }
