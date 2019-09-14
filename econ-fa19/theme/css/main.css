@@ -40,11 +40,15 @@ div.bd-example ol.carousel-indicators li {
 
 div#announcements div.announcement-back {
   background: none; 
-  height: 200px;
+  height: 300px;
 }
 
 .carousel-caption {
   color: black;
+  top: 50%;
+  position: absolute;
+  transform: translateY(-50%);
+  bottom: -30%;
 }
 
 i.fa-chevron-left, i.fa-chevron-right {
