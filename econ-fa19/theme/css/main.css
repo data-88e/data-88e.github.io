@@ -22,7 +22,7 @@ a.anchor-link {
   display: none;
 }
 
-/* Announcement Pager */
+/* Announcement Pages */
 
 .announcement-btn-older:hover, .announcement-btn-newer:hover {
   cursor: pointer;
@@ -40,7 +40,7 @@ div.bd-example ol.carousel-indicators li {
 
 div#announcements div.announcement-back {
   background: none; 
-  height: 300px;
+  height: 425px;
 }
 
 .carousel-caption {
@@ -62,6 +62,11 @@ i.fa-chevron-left, i.fa-chevron-right {
 
 .carousel-control-next:hover {
   color: black;
+}
+
+#announcements .list-group-item {
+  border: none;
+  padding: padding: .3rem .7rem;
 }
 
 /* Calendar */
