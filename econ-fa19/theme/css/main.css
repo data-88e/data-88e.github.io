@@ -75,6 +75,11 @@ table {
   width: 100%;
 }
 
+/* hide reading column */
+div.calendar tr td:nth-child(4) {
+  display: none;
+}
+
 .calendar table, .calendar th, .calendar tr, .calendar td {
   border: 1px solid black;
 }
