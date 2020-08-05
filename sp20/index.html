@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Data 88</title>
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="./theme/css/main.css" />
+
+        <link rel="icon" href="./assets/images/favicon.ico" />
+
+        <!-- MathJax script -->
+        <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+        </script>
+
+        <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+        </script>
+
+        
+</head>
+
+<body id="index" class="home">
+
+  <script type="text/javascript" src="navbar.js"></script>
+
+  <div class="container">
+<section id="content">
+
+  <!--
+
+  <img src="./assets/images/econ-models.png" width="100%"/>
+
+-->
+
+<!-- 
+
+<h2>Announcements</h2>
+
+<div id="announcements">
+
+  <div class="bd-example">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-interval="15000">
+            <div class="announcement-back"></div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>October 27, 2019</h5>
+                <ul class="text-justify-left list-group">
+                  <li class="list-group-item">The deadline for Project 1 has been pushed to Tue Oct 29 11:59 PM due to power outages and the postponement of OH.</li>
+                </ul>
+              </div>
+        </div>
+        <div class="carousel-item" data-interval="15000">
+            <div class="announcement-back"></div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>October 15, 2019</h5>
+                <ul class="text-justify-left list-group">
+                  <li class="list-group-item">Please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSevAFPCJ55iaSlTul7fo-TKkhrZMwjXrY4JraMVPN18WTqndQ/viewform?usp=sf_link" target="_blank">Midsemester Survey</a> so that we can get some feedback on the course and adjust the second half as needed.</li>
+                  <li class="list-group-item">Project 1 will be released today and will serve as the alpha test of a new autograder; please bear with us if there are any issues moving through this project.</li>
+                </ul>
+              </div>
+        </div>
+        <div class="carousel-item" data-interval="15000">
+            <div class="announcement-back"></div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>September 17, 2019</h5>
+                <ul class="text-justify-left list-group">
+                  <li class="list-group-item">Homework 3 will be posted later than usual; we will announce on Piazza when it is ready.</li>
+                  <li class="list-group-item">Solutions for Homework 1 have been posted (link below).</li>
+                  <li class="list-group-item">The <a href="policies.html">course policies</a> have been ammended with details on the following: <ul>
+                    <li>absence policy</li>
+                    <li>late submission policy</li>
+                    <li>regrade requests</li>
+                  </ul></li>
+                  <li class="list-group-item">Connector assistant office hours have been moved. We will finalize the room later this week and update the policies page to reflect this.</li>
+                </ul>
+              </div>
+        </div>
+        <div class="carousel-item" data-interval="15000">
+            <div class="announcement-back"></div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>September 10, 2019</h5>
+                <ul class="text-justify-left list-group">
+                  <li class="list-group-item">Homework 2 released (link below).</li>
+                </ul>
+              </div>
+        </div>
+        <div class="carousel-item" data-interval="15000">
+            <div class="announcement-back"></div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>September 3, 2019</h5>
+                <ul class="text-justify-left list-group">
+                  <li class="list-group-item">Homework 1 released (link below).</li>
+                  <li class="list-group-item">10:00 PM: Please reclick the HW 1 link below as we have revised some of the code.</li>
+                </ul>
+              </div>
+        </div>
+        <div class="carousel-item" data-interval="15000">
+            <div class="announcement-back"></div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>August 28, 2019</h5>
+                <ul class="text-justify-left list-group">
+                  <li class="list-group-item">Sign up for our Piazza (link above).</li>
+                  <li class="list-group-item">If you haven't been added to our Gradescope course, please post on Piazza.</li>
+                </ul>
+              </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+        <img src="assets/icons/chevron-left.svg" height="40px">
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+        <img src="assets/icons/chevron-right.svg" height="40px">
+      </a>
+    </div>
+  </div>
+
+-->
+
+  <!-- <ul>
+    
+    <li>If you haven't been added to our Gradescope course, please post on Piazza.</li>
+
+    <li>Sign up for our Piazza (link above).</li>
+
+  </ul> -->
+
+<!-- </div> -->
+
+<h1 id="course-name">Data 88: Economic Models <span class="quiet font-weight-light">Spring 2020</span></h1>
+
+<h2>Calendar</h2>
+    
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><strong>Instructor</strong>: Eric Van Dusen (<a href="mailto:ericvd@berkeley.edu">ericvd@berkeley.edu</a>)</p>
+<p><strong>Lecture</strong>: Mon 2pm-4pm in 101 Wurster</p>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div class="calendar">
+
+  <table style="margin-top: 20px;">
+
+<thead>
+<tr>
+  <td class="header">Date</td>
+  <td class="header">Lecture</td>
+  <td class="header">Materials</td>
+  <td class="header">Assignment</td>
+</tr>
+</thead>
+
+
+<!-- begin data 88 table -->
+
+<tbody>
+<tr>
+  <td>Mon, Jan 27</td>
+  <td>Lecture 1: Demand</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1qDcAAh5fG2RhT-SLfelxM_Cc9FgLHIwOVSOAbnTe08E">Administrative Slides</a></li>
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1IJp_hicQxtsfv7tqOq0M23RNlOndX4tq7R0VglQ1Qs0">Demand Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab01%2Flab01.ipynb">Lab 1</a></li>
+  </ul></td>
+  <td> <a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fhw%2Fhw01%2Fhw01.ipynb">Homework 1</a> (due Feb 3)</td>
+</tr>
+
+<tr>
+  <td>Mon, Feb 3</td>
+  <td>Lecture 2: Supply & Elasticity</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1xxgFLbeK4-F8QbPk9zbnUXqgTkxk2Tq2OASSghf9MVg">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab02%2Flab02.ipynb">Lab 2</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fhw%2Fhw02%2Fhw02.ipynb">Homework 2</a> (due Feb 10)</td>
+</tr>
+
+<tr>
+  <td>Mon, Feb 10</td>
+  <td>Lecture 3: Surplus, Equilibrium, & Government Intervention</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://docs.google.com/presentation/d/1iR4Fy22kCVRQoOkpfwiPOKVIip9tUdFLzD5HzdicZEo/edit#slide=id.g7d7b0a3e2a_0_46">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab03%2Fsurplus.ipynb">Surplus Demo</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab03%2Flab03.ipynb">Lab 3</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fhw%2Fhw03%2Fhw03.ipynb">Homework 3</a> (due Feb 24)</td>
+</tr>
+
+<tr>
+  <td>Mon, Feb 17</td>
+  <td>NO CLASS: Presidents Day</td>
+  <td><ul class="list-group">
+  </ul></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>Mon, Feb 24</td>
+  <td>Lecture 4: Utility & LaTeX</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1JYSD-gAAsRiWc8KVk4dbn1yJ5OLwJ0UlhJH1ub_yK4A">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab04%2Flab04.ipynb">Lab 4 Notebook</a></li>
+    <li class="list-group-item"><a href="https://raw.githubusercontent.com/ds-connectors/DATA-88-EconModels-sp20/master/lab/lab04/lab04.tex">Lab 4 TeX</a></li>
+  </ul></td>
+  <td><a href="https://raw.githubusercontent.com/ds-connectors/DATA-88-EconModels-sp20/master/hw/hw04/hw04.pdf">Homework 4</a> (<a href="https://raw.githubusercontent.com/ds-connectors/DATA-88-EconModels-sp20/master/hw/hw04/hw04.tex">TeX</a>) (due Mar 2)</td>
+</tr>
+
+<tr>
+  <td>Mon, Mar 2</td>
+  <td>Lecture 5: Production</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1TWctvEY2KdYfQ4ybJaxDpoNvVgJqVL6lO3D05DO6rro">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab05%2Flab05.ipynb">Lab 5</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fproj%2Fproj01%2Fproj01.ipynb">Project 1</a> (due Mar 16)</td>
+</tr>
+
+<tr>
+  <td>Mon, Mar 9</td>
+  <td>Lecture 6: Development, <strong>Test 1</strong></td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1-qabMSji894xbcnsxBrz8Yobg1GcenZa7k98j4uei60">Slides</a></li>
+    <li class="list-group-item"><a href="https://youtu.be/Bmkhdqt03aw">Video</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab06%2Flab06.ipynb">Lab 6</a></li>
+ </ul></td>
+  <td>continue Project 1</td>
+</tr>
+
+<tr>
+  <td>Mon, Mar 16</td>
+  <td>Lecture 7: Finance</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1--0Tz5SPz9jUsfE88-zErtGjnbOHo2fptiEgeLOk08M">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab07%2Flab07.ipynb">Lab 7</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fhw%2Fhw05%2Fhw05.ipynb">Homework 5</a> (due Mar 30)</td>
+</tr>
+
+<tr>
+  <td>Mon, Mar 23</td>
+  <td>NO CLASS: Spring Break</td>
+  <td><ul class="list-group">
+  </ul></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>Mon, Mar 30</td>
+  <td>Lecture 8: Inequality</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://docs.google.com/presentation/d/1UoxOYy0odYjfyZuvnjqAVilFbKfNt9wYHiIpMqmCMJw/edit#slide=id.g65c7e50cdd_0_112">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab08%2Flab08.ipynb">Lab 8</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fhw%2Fhw06%2Fhw06.ipynb">Homework 6</a> (due Apr 6)</td>
+</tr>
+
+<tr>
+  <td>Mon, Apr 6</td>
+  <td>Lecture 9: Behavioral Economics</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1Ux__zIntTMlFOKlg0NT4kkqO8Uwy5E6Y">Prof. Hawkins's Slides</a></li>
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1gw9oto6uvHRMWZDoHAw0h6b2D6RwSGtsyundykTMfk4">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab09%2Fbehavioral-demo.ipynb">Stocks Demo</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab09%2Flab09.ipynb">Lab 9</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fproj%2Fproj02%2Fproj02.ipynb">Project 2</a> (due Apr 20)</td>
+</tr>
+
+<tr>
+  <td>Mon, Apr 13</td>
+  <td>Lecture 10: Econometrics</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flec%2Flec10%2Flec10.ipynb">Lecture</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab10%2Flab10.ipynb">Lab 10</a></li>
+  </ul></td>
+  <td>continue Project 2</td>
+</tr>
+
+<tr>
+  <td>Mon, Apr 20</td>
+  <td>Lecture 11: Macroeconomic Policy</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://drive.google.com/open?id=1Z6FaVx_kiMrNSshl_-1FfY6xlhxMVL1f">Slides</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flab%2Flab11%2Flab11.ipynb">Lab 11</a></li>
+  </ul></td>
+  <td><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Fproj%2Fproj03%2Fproj03.ipynb">Project 3</a> (due May 4)</td>
+</tr>
+
+<tr>
+  <td>Mon, Apr 27</td>
+  <td>Lecture 12: Guest Lectures by Sahil Chinoy (Harvard), Anastasiya Borys (Goldman Sachs)</td>
+  <td><ul class="list-group">
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flec%2Flec12%2Fanalyze_spotify_data.ipynb">Analyze Spotify Data</a></li>
+    <li class="list-group-item"><a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-connectors%2FDATA-88-EconModels-sp20&urlpath=tree%2FDATA-88-EconModels-sp20%2Flec%2Flec12%2FInflation_Unemployment_Finalized.ipynb">Inflation and Unemployment</a></li>
+  </ul></td>
+  <td>continue Project 3</td>
+</tr>
+
+<tr>
+  <td>Mon, May 4</td>
+  <td>RRR Week</td>
+  <td><ul class="list-group">
+  </ul></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>Tue, May 12</td>
+  <td><strong>Test 2</strong> <span class="quiet">(during Final Exam slot)</span></td>
+  <td><ul class="list-group">
+  </ul></td>
+  <td></td>
+</tr>
+</tbody>
+
+
+
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<p style="text-align: right; padding-top: 5px;">Note: Topics and dates are subject to change.</p>
+
+</div>
+
+</section><!-- /#content -->
+  </div>
+  <footer id="contentinfo" class="body">
+  </footer><!-- /#contentinfo -->
+
+<script>
+  $(document).ready(function() {
+
+    // Announcements
+    var announcementIndex = 0;
+
+    function setAnnouncements(offset) {
+      var newIndex = announcementIndex  + offset;
+      var announcementNumber = $('.announcement').length;
+
+      if (newIndex < 0 || newIndex >= announcementNumber) {
+        return;
+      }
+
+      $('#announcement-' + announcementIndex).hide(0, function() {
+        $('#announcement-' + newIndex).show(0);
+      });
+
+      announcementIndex = newIndex;
+
+      if (announcementIndex >= announcementNumber - 1) {
+        $('#announcement-' + announcementIndex + ' .announcement-btn-older')
+          .addClass('disabled');
+      }
+      if (announcementIndex === 0) {
+        $('#announcement-' + announcementIndex + ' .announcement-btn-newer')
+          .addClass('disabled');
+      }
+    }
+    setAnnouncements(0);
+
+    $('.announcement-btn-newer > a').click(function() {
+      setAnnouncements(-1);
+    });
+    $('.announcement-btn-older > a').click(function() {
+      setAnnouncements(1);
+    });
+  });
+
+</script>
+
+</body>
+</html>
