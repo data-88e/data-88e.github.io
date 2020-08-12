@@ -70,6 +70,8 @@ function loadCalendar(calendarPath) {
             weeks: data
         });
         $("#calendar-target").append($(renderedCalendar));
+    }).fail(() => {
+        alert("Could not load calendar; please try again or contact course staff.")
     });
     return jqxhr;
 }
