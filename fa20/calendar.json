@@ -1,0 +1,120 @@
+[
+    {
+        "date": "Tue, Sep 1",
+        "title": "Lecture 1: Demand",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Sep 8",
+        "title": "Lecture 2: Supply",
+        "materials": [],
+        "assignment": {
+            "title": "Project 1",
+            "dueDate": "Sep 21"
+        }
+    },
+    {
+        "date": "Tue, Sep 15",
+        "title": "Lecture 3: Government Intervention",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Sep 22",
+        "title": "Lecture 4: Production",
+        "materials": [],
+        "assignment": {
+            "title": "Project 2",
+            "dueDate": "Oct 5"
+        }
+    },
+    {
+        "date": "Tue Sep 29",
+        "title": "Lecture 5: Utility",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Oct 6",
+        "title": "Lecture 6: Development",
+        "materials": [],
+        "assignment": {
+            "title": "Test 1",
+            "dueDate": "Oct 9",
+            "bold": true
+        }
+    },
+    {
+        "date": "Tue, Oct 13",
+        "title": "Lecture 7: Game Theory",
+        "materials": [],
+        "assignment": {
+            "title": "Project 3",
+            "dueDate": "Oct 26"
+        }
+    },
+    {
+        "date": "Tue, Oct 20",
+        "title": "Lecture 8: Behavioral Economics",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Oct 27",
+        "title": "Lecture 9: Finance",
+        "materials": [],
+        "assignment": {
+            "title": "Project 4",
+            "dueDate": "Nov 9"
+        }
+    }, 
+    {
+        "date": "Tue, Nov 3",
+        "title": "Lecture 10: Inequality",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Nov 10",
+        "title": "Lecture 11: Econometrics",
+        "materials": [],
+        "assignment": {
+            "title": "Project 5",
+            "dueDate": "Nov 23"
+        }
+    },
+    {
+        "date": "Tue, Nov 17",
+        "title": "Lecture 12: Macroeconomic Policy",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Nov 24",
+        "title": "NO CLASS: Thanksgiving Break",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Dec 1",
+        "title": "Lecture 13: Guest Lecture",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Dec 8",
+        "title": "RRR Week",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Dec 15",
+        "title": "Finals",
+        "materials": [],
+        "assignment": {
+            "title": "Test 2",
+            "bold": true
+        }
+    }
+]

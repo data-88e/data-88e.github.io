@@ -1,262 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Data 88</title>
-        <!-- Latest compiled and minified Bootstrap CSS -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <title>Data 88</title>
+    
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-        <link rel="stylesheet" href="./theme/css/main.css" />
+    <script src="../assets/javascript/underscore-min.js"></script>
+    <script src="../assets/javascript/jquery-3.5.1.min.js"></script>
 
-        <link rel="icon" href="./assets/images/favicon.ico" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-        <!-- MathJax script -->
-        <script type="text/javascript" async
-          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-        </script>
+    <link rel="stylesheet" href="../assets/stylesheets/main.css" />
+    <link rel="icon" href="../assets/images/favicon.ico" />
 
-        <script type="text/x-mathjax-config">
-          MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-        </script>
+    <!-- MathJax script -->
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"></script>
 
-        
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+
+    <!-- Calendar Script -->
+    <script src="../assets/javascript/calendar.js"></script>
+
 </head>
 
 <body id="index" class="home">
 
   <script type="text/javascript" src="navbar.js"></script>
 
-  <div class="container">
-<section id="content">
+    <div class="container">
 
-<h1 id="course-name">Data 88: Economic Models <span class="quiet font-weight-light">Fall 2020</span></h1>
+        <h1 id="course-name">Data 88: Economic Models <span class="quiet font-weight-light">Fall 2020</span></h1>
 
-<h2>Calendar</h2>
-    
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Instructor</strong>: Eric Van Dusen (<a href="mailto:ericvd@berkeley.edu">ericvd@berkeley.edu</a>)</p>
-<p><strong>Lecture</strong>: Tue 2pm-4pm in 150 GSPP</p>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
+        <h2>Calendar</h2>
+            
+        <p><strong>Instructor</strong>: Eric Van Dusen (<a href="mailto:ericvd@berkeley.edu">ericvd@berkeley.edu</a>)</p>
+        <p><strong>Lecture</strong>: Tue 2pm-4pm in 150 GSPP</p>
 
-</div>
-<div class="cell border-box-sizing code_cell rendered">
+        <div class="calendar" id="calendar-target"></div>
 
-<div class="output_wrapper">
-<div class="output">
-<div class="output_area">
-<div class="output_html rendered_html output_subarea output_execute_result">
-<div class="calendar">
+        <p style="text-align: right; padding-top: 5px;">Note: Topics and dates are subject to change.</p>
 
-  <table style="margin-top: 20px;">
+    </div>
 
-<thead>
-<tr>
-  <td class="header">Date</td>
-  <td class="header">Lecture</td>
-  <td class="header">Materials</td>
-  <td class="header">Assignment</td>
-</tr>
-</thead>
+    <script>
+    $(document).ready(function() {
 
+        // Announcements
+        var announcementIndex = 0;
 
-<!-- begin data 88 table -->
+        function setAnnouncements(offset) {
+        var newIndex = announcementIndex  + offset;
+        var announcementNumber = $('.announcement').length;
 
-<tbody>
-<tr>
-  <td>Tue, Sep 1</td>
-  <td>Lecture 1: Demand</td>
-  <td><ul class="list-group">
-    <!-- <li class="list-group-item"></li> -->
-  </ul></td>
-  <td></td>
-</tr>
+        if (newIndex < 0 || newIndex >= announcementNumber) {
+            return;
+        }
 
-<tr>
-  <td>Tue, Sep 8</td>
-  <td>Lecture 2: Supply & Firm Behavior</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td>Project 1 (due Sep 21)</td>
-</tr>
+        $('#announcement-' + announcementIndex).hide(0, function() {
+            $('#announcement-' + newIndex).show(0);
+        });
 
-<tr>
-  <td>Tue, Sep 15</td>
-  <td>Lecture 3: Government Intervention</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
+        announcementIndex = newIndex;
 
-<tr>
-  <td>Tue, Sep 22</td>
-  <td>Lecture 4: Production</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td>Project 2 (due Oct 5)</td>
-</tr>
+        if (announcementIndex >= announcementNumber - 1) {
+            $('#announcement-' + announcementIndex + ' .announcement-btn-older')
+            .addClass('disabled');
+        }
+        if (announcementIndex === 0) {
+            $('#announcement-' + announcementIndex + ' .announcement-btn-newer')
+            .addClass('disabled');
+        }
+        }
+        setAnnouncements(0);
 
-<tr>
-  <td>Tue, Sep 29</td>
-  <td>Lecture 5: Utility</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Oct 6</td>
-  <td>Lecture 6: Development</td>
-  <td><ul class="list-group">
- </ul></td>
-  <td><strong>Test 1</strong> (Oct 9)</td>
-</tr>
-
-<tr>
-  <td>Tue, Oct 13</td>
-  <td>Lecture 7: Game Theory</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td>Project 3 (due Oct 26)</td>
-</tr>
-
-<tr>
-  <td>Tue, Oct 20</td>
-  <td>Lecture 8: Finance</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Oct 27</td>
-  <td>Lecture 9: Behavioral Economics</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td>Project 4 (due Nov 9)</td>
-</tr>
-
-<tr>
-  <td>Tue, Nov 3</td>
-  <td>Lecture 10: Inequality</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Nov 10</td>
-  <td>Lecture 11: Econometrics</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td>Project 5 (due Nov 23)</td>
-</tr>
-
-<tr>
-  <td>Tue, Nov 17</td>
-  <td>Lecture 12: Macroeconomic Policy</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Nov 24</td>
-  <td>NO CLASS: Thanksigiving Break</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Dec 1</td>
-  <td>Lecture 13: Guest Lecture</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Dec 8</td>
-  <td>RRR Week</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td></td>
-</tr>
-
-<tr>
-  <td>Tue, Dec 15</td>
-  <td>Finals</td>
-  <td><ul class="list-group">
-  </ul></td>
-  <td><strong>Test 2</strong></td>
-</tr>
-</tbody>
-
-
-
-</table>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<p style="text-align: right; padding-top: 5px;">Note: Topics and dates are subject to change.</p>
-
-</div>
-
-</section><!-- /#content -->
-  </div>
-  <footer id="contentinfo" class="body">
-  </footer><!-- /#contentinfo -->
-
-<script>
-  $(document).ready(function() {
-
-    // Announcements
-    var announcementIndex = 0;
-
-    function setAnnouncements(offset) {
-      var newIndex = announcementIndex  + offset;
-      var announcementNumber = $('.announcement').length;
-
-      if (newIndex < 0 || newIndex >= announcementNumber) {
-        return;
-      }
-
-      $('#announcement-' + announcementIndex).hide(0, function() {
-        $('#announcement-' + newIndex).show(0);
-      });
-
-      announcementIndex = newIndex;
-
-      if (announcementIndex >= announcementNumber - 1) {
-        $('#announcement-' + announcementIndex + ' .announcement-btn-older')
-          .addClass('disabled');
-      }
-      if (announcementIndex === 0) {
-        $('#announcement-' + announcementIndex + ' .announcement-btn-newer')
-          .addClass('disabled');
-      }
-    }
-    setAnnouncements(0);
-
-    $('.announcement-btn-newer > a').click(function() {
-      setAnnouncements(-1);
+        $('.announcement-btn-newer > a').click(function() {
+        setAnnouncements(-1);
+        });
+        $('.announcement-btn-older > a').click(function() {
+        setAnnouncements(1);
+        });
     });
-    $('.announcement-btn-older > a').click(function() {
-      setAnnouncements(1);
-    });
-  });
 
-</script>
+    </script>
+
+
+
+    <script>
+    var jqxhr = loadCalendar("./calendar.json");
+    </script>
 
 </body>
 </html>
