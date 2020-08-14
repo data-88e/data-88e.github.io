@@ -90,7 +90,9 @@
 
 
     <script>
-    var jqxhr = loadCalendar("./calendar.json");
+        // function below gets the calender JSON file; query params are added to ensure that the JSON
+        // file is never loaded from browser cache
+        var jqxhr = loadCalendar("./calendar.json?nocache=" + (new Date()).getTime());
     </script>
 
 </body>
