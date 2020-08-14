@@ -30,7 +30,7 @@ const calendarTemplate = _.template(`
                 <% if ("url" in material && material.url !== null) { %>
 
                     <li class="list-group-item">
-                        <a href="<%= material.url %>" target="_blank_"><%= material.title %></a>
+                        <a href="<%= material.url %>" target="_blank"><%= material.title %></a>
                     </li>
 
                 <% } else { %>
@@ -47,10 +47,20 @@ const calendarTemplate = _.template(`
             <% if ("assignment" in week && week.assignment !== null) { %>
 
                 <% if ("bold" in week.assignment && week.assignment.bold) { %>
-                    <strong><%= week.assignment.title %></strong>
-                <% } else { %>
-                    <%= week.assignment.title %>
-                <% } %> (due <%= week.assignment.dueDate %>)
+                    <strong>
+                <% } %><% if ("url" in week.assignment && week.assignment.url) { %>
+                    <a href="<%= week.assignment.url %>" target="_blank">
+                <% } %>
+                
+                <%= week.assignment.title %>
+
+                <% if ("url" in week.assignment && week.assignment.url) { %>
+                    </a>
+                <% } %><% if ("bold" in week.assignment && week.assignment.bold) { %>
+                    </strong>
+                <% } %> <% if ("dueDate" in week.assignment && week.assignment.dueDate) { %>
+                    (due <%= week.assignment.dueDate %>)
+                <% } %>
 
             <% } %>
         
