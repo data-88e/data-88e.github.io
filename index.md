@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="sp17/theme/css/main.css" />
 
-Data 88
-====
+# Data 88
 
-Description
+## Description
 
 <!--
 
@@ -20,8 +19,7 @@ issues surrounding data analysis such as privacy and design.
 
 The course is offered in partnership with the [Berkeley Division of Data Sciences](http://data.berkeley.edu). 
 
-Offerings
-----
+## Offerings
 
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
