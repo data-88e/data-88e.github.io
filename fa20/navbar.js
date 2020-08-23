@@ -33,7 +33,7 @@ var html = `
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="piazza.com/berkeley/fall2020/data88/home">Piazza</a>
+                    <a class="nav-link" href="https://piazza.com/berkeley/fall2020/data88/home">Piazza</a>
                 </li>
 
                 <li class="nav-item">
