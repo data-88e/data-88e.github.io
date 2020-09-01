@@ -4,7 +4,8 @@
         "title": "Lecture 1: Demand",
         "materials": [
             {
-                "title": "Slides"
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1_dWlaHEILZMHLLVlEEQtg8AmOCJftr2ux9Lyf_cLQbk/edit?usp=sharing"
             },
             {
                 "title": "Demand Curve",
@@ -112,7 +113,11 @@
         "date": "Tue, Dec 1",
         "title": "Lecture 13: Guest Lecture",
         "materials": [],
-        "assignment": null
+        "assignment": {
+            "title": "Test 2 (tentative)",
+            "dueDate": "Dec 4",
+            "bold": true
+        }
     },
     {
         "date": "Tue, Dec 8",
@@ -124,9 +129,6 @@
         "date": "Tue, Dec 15",
         "title": "Finals",
         "materials": [],
-        "assignment": {
-            "title": "Test 2",
-            "bold": true
-        }
+        "assignment": null
     }
 ]
