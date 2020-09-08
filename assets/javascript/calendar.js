@@ -59,7 +59,7 @@ const calendarTemplate = _.template(`
                 <% } %><% if ("bold" in week.assignment && week.assignment.bold) { %>
                     </strong>
                 <% } %> <% if ("dueDate" in week.assignment && week.assignment.dueDate) { %>
-                    (due <%= week.assignment.dueDate %>)
+                     (due <%= week.assignment.dueDate %>)
                 <% } %>
 
             <% } %>
