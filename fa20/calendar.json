@@ -65,6 +65,10 @@
                 "url": "https://docs.google.com/presentation/d/1NLjjte0ihA6wx5CfBLdUKOdd-m7s4pe86279MhQmwAQ/edit?usp=sharing"
             },
             {
+                "title": "Annotated Slides",
+                "url": "assets/lec04-annotated.pdf"
+            },
+            {
                 "title": "Lab 4",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab04%2Flab04.ipynb&branch=master"
             }
