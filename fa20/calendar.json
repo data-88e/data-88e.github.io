@@ -82,7 +82,20 @@
     {
         "date": "Tue Sep 29",
         "title": "Lecture 5: Utility",
-        "materials": [],
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1JadWGEq4eBV02j8Y5PJ2zLOx_VXpuB9O-U5lFw8LGIo/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 5 Assignment",
+                "url": "assets/lab05-assignment.pdf"
+            },
+            {
+                "title": "Lab 5 TeX",
+                "url": "https://raw.githubusercontent.com/d8a-88/econ-fa20/master/lab/lab05/lab05_template.tex"
+            }
+        ],
         "assignment": null
     },
     {
