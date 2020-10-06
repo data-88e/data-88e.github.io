@@ -101,7 +101,16 @@
     {
         "date": "Tue, Oct 6",
         "title": "Lecture 6: Development",
-        "materials": [],
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1ocP5zCKxD1gYJBfqYYQZlcO2S3x95B8s_FR3TfUS9lo/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 6",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab06%2Flab06.ipynb&branch=master"
+            }
+        ],
         "assignment": {
             "title": "Test 1",
             "dueDate": "Oct 9",
