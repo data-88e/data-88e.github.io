@@ -120,10 +120,27 @@
     {
         "date": "Tue, Oct 13",
         "title": "Lecture 7: Game Theory",
-        "materials": [],
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1VZCr-mEynBwDptg4vBIZa_2-KiPY1ULZgU5EWR5U6ms/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Slides"
+            },
+            {
+                "title": "Lecture 7 Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec07%2Flec07.ipynb&branch=master"
+            },
+            {
+                "title": "Lab 7",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab07%2Flab07.ipynb&branch=master"
+            }
+        ],
         "assignment": {
             "title": "Project 3",
-            "dueDate": "Oct 26"
+            "dueDate": "Oct 26",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj03%2Fproj03.ipynb&branch=master"
         }
     },
     {
