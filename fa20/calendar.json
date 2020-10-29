@@ -162,10 +162,15 @@
     {
         "date": "Tue, Oct 27",
         "title": "Lecture 9: Behavioral Economics",
-        "materials": [],
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "assets/lec09-slides.pdf"
+            }
+        ],
         "assignment": {
             "title": "Project 4",
-            "dueDate": "Nov 9"
+            "dueDate": "Nov 12"
         }
     }, 
     {
