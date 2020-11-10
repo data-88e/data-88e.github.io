@@ -190,6 +190,10 @@
         "title": "Lecture 11: Econometrics",
         "materials": [
             {
+                "title": "Lecture 11 Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec11%2Flec11.ipynb&branch=master"
+            },
+            {
                 "title": "Lab 10",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab10%2Flab10.ipynb&branch=master"
             }
