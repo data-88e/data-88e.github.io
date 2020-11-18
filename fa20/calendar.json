@@ -213,6 +213,10 @@
                 "url": "https://docs.google.com/presentation/d/1hmDmkiyHnLCCXS7TYkNtJMfAoQE_Oca5h45uVY2VMQ0/edit?usp=sharing"
             },
             {
+                "title": "Annotated Slides",
+                "url": "assets/lec12-annotated.pdf"
+            },
+            {
                 "title": "Lab 11",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab11%2Flab11.ipynb&branch=master"
             }
