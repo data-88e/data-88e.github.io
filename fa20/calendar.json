@@ -234,6 +234,10 @@
         "title": "Lecture 13: Guest Lecture",
         "materials": [
             {
+                "title": "Evolving Correlations",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fevolving-correlations.ipynb&branch=master"
+            },
+            {
                 "title": "Spotify Data",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fanalyze_spotify_data.ipynb&branch=master"
             }
