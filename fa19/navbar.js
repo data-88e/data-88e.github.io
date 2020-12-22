@@ -25,7 +25,7 @@ var html = `
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://d8a-88.github.io/econ-models-textbook">Textbook</a>
+                    <a class="nav-link" href="https://data-88e.github.io/econ-models-textbook">Textbook</a>
                 </li>
 
                 <li class="nav-item">

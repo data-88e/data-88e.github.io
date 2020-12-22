@@ -9,11 +9,11 @@
             },
             {
                 "title": "Demand Curve",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec01%2Fdemand-curve.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec01%2Fdemand-curve.ipynb&branch=master"
             },
             {
                 "title": "Lab 1",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab01%2Flab01.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab01%2Flab01.ipynb&branch=master"
             }
         ],
         "assignment": null
@@ -28,16 +28,16 @@
             },
             {
                 "title": "Lecture 2 Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec02%2Flec02.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec02%2Flec02.ipynb&branch=master"
             },
             {
                 "title": "Lab 2",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab02%2Flab02.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab02%2Flab02.ipynb&branch=master"
             }
         ],
         "assignment": {
             "title": "Project 1",
-            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj01%2Fproj01.ipynb&branch=master",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj01%2Fproj01.ipynb&branch=master",
             "dueDate": "Sep 21"
         }
     },
@@ -51,7 +51,7 @@
             },
             {
                 "title": "Lab 3",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab03%2Flab03.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab03%2Flab03.ipynb&branch=master"
             }
         ],
         "assignment": null
@@ -70,13 +70,13 @@
             },
             {
                 "title": "Lab 4",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab04%2Flab04.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab04%2Flab04.ipynb&branch=master"
             }
         ],
         "assignment": {
             "title": "Project 2",
             "dueDate": "Oct 5",
-            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj02%2Fproj02.ipynb&branch=master"
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj02%2Fproj02.ipynb&branch=master"
         }
     },
     {
@@ -93,7 +93,7 @@
             },
             {
                 "title": "Lab 5 TeX",
-                "url": "https://raw.githubusercontent.com/d8a-88/econ-fa20/master/lab/lab05/lab05_template.tex"
+                "url": "https://raw.githubusercontent.com/data-88e/econ-fa20/master/lab/lab05/lab05_template.tex"
             }
         ],
         "assignment": null
@@ -108,7 +108,7 @@
             },
             {
                 "title": "Lab 6",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab06%2Flab06.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab06%2Flab06.ipynb&branch=master"
             }
         ],
         "assignment": {
@@ -131,17 +131,17 @@
             },
             {
                 "title": "Lecture 7 Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec07%2Flec07.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec07%2Flec07.ipynb&branch=master"
             },
             {
                 "title": "Lab 7",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab07%2Flab07.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab07%2Flab07.ipynb&branch=master"
             }
         ],
         "assignment": {
             "title": "Project 3",
             "dueDate": "Oct 26",
-            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj03%2Fproj03.ipynb&branch=master"
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj03%2Fproj03.ipynb&branch=master"
         }
     },
     {
@@ -154,7 +154,7 @@
             },
             {
                 "title": "Lab 8",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab08%2Flab08.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab08%2Flab08.ipynb&branch=master"
             }
         ],
         "assignment": null
@@ -171,7 +171,7 @@
         "assignment": {
             "title": "Project 4",
             "dueDate": "Nov 12",
-            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj04%2Fproj04.ipynb&branch=master"
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj04%2Fproj04.ipynb&branch=master"
         }
     }, 
     {
@@ -180,7 +180,7 @@
         "materials": [
             {
                 "title": "Lab 9",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab09%2Flab09.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab09%2Flab09.ipynb&branch=master"
             }
         ],
         "assignment": null
@@ -191,17 +191,17 @@
         "materials": [
             {
                 "title": "Lecture 11 Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec11%2Flec11.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec11%2Flec11.ipynb&branch=master"
             },
             {
                 "title": "Lab 10",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab10%2Flab10.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab10%2Flab10.ipynb&branch=master"
             }
         ],
         "assignment": {
             "title": "Project 5",
             "dueDate": "Nov 30",
-            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj05%2Fproj05.ipynb&branch=master"
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj05%2Fproj05.ipynb&branch=master"
         }
     },
     {
@@ -218,7 +218,7 @@
             },
             {
                 "title": "Lab 11",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab11%2Flab11.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab11%2Flab11.ipynb&branch=master"
             }
         ],
         "assignment": null
@@ -235,11 +235,11 @@
         "materials": [
             {
                 "title": "Evolving Correlations",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fevolving-correlations.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fevolving-correlations.ipynb&branch=master"
             },
             {
                 "title": "Spotify Data",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fanalyze_spotify_data.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fanalyze_spotify_data.ipynb&branch=master"
             }
         ],
         "assignment": {
