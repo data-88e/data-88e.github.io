@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data 88</title>
+    
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="../assets/javascript/underscore-min.js"></script>
+    <script src="../assets/javascript/jquery-3.5.1.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="../assets/stylesheets/main.css" />
+    <link rel="icon" href="../assets/images/favicon.ico" />
+
+    <!-- MathJax script -->
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"></script>
+
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+
+    <!-- Calendar Script -->
+    <script src="../assets/javascript/calendar.js"></script>
+
+</head>
+
+<body id="index" class="home">
+
+  <script type="text/javascript" src="navbar.js"></script>
+
+    <div class="container">
+
+        <h1 id="course-name">Data 88: Economic Models <span class="quiet font-weight-light">Spring 2021</span></h1>
+
+        <!-- <div class="alert alert-danger">This site is under construction. Please do not rely on the information presented until the first lecture as it may change drastically.</div> -->
+
+        <h2>Calendar</h2>
+            
+        <p>
+            <strong>Instructor</strong>: Eric Van Dusen (<a href="mailto:ericvd@berkeley.edu">ericvd@berkeley.edu</a>)<br>
+            <strong>Course Staff:</strong> Alan Liang, Amal Bhatnagar, Andrei Caprau, Chris Pyles, Shashank Dalmia, Umar Maniku (<a href="mailto:data88@berkeley.edu">data88@berkeley.edu</a>)<br>
+            <strong>Connector Assistants:</strong> Avantika Ghosh, Matthew Yep, Rohan Jha, Sreeja Apparaju<br>
+            <strong>Lecture</strong>: Tue 2pm-4pm via Zoom (see <a href="https://piazza.com/class/kdhjudboby95c3?cid=8" target="_blank">@8</a> on Piazza)
+        </p>
+
+        <div class="calendar" id="calendar-target"></div>
+
+        <p style="text-align: right; padding-top: 5px;">Note: Topics and dates are subject to change.</p>
+
+    </div>
+
+    <script>
+    $(document).ready(function() {
+
+        // Announcements
+        var announcementIndex = 0;
+
+        function setAnnouncements(offset) {
+        var newIndex = announcementIndex  + offset;
+        var announcementNumber = $('.announcement').length;
+
+        if (newIndex < 0 || newIndex >= announcementNumber) {
+            return;
+        }
+
+        $('#announcement-' + announcementIndex).hide(0, function() {
+            $('#announcement-' + newIndex).show(0);
+        });
+
+        announcementIndex = newIndex;
+
+        if (announcementIndex >= announcementNumber - 1) {
+            $('#announcement-' + announcementIndex + ' .announcement-btn-older')
+            .addClass('disabled');
+        }
+        if (announcementIndex === 0) {
+            $('#announcement-' + announcementIndex + ' .announcement-btn-newer')
+            .addClass('disabled');
+        }
+        }
+        setAnnouncements(0);
+
+        $('.announcement-btn-newer > a').click(function() {
+        setAnnouncements(-1);
+        });
+        $('.announcement-btn-older > a').click(function() {
+        setAnnouncements(1);
+        });
+    });
+
+    </script>
+
+
+
+    <script>
+        // function below gets the calender JSON file; query params are added to ensure that the JSON
+        // file is never loaded from browser cache
+        var jqxhr = loadCalendar("./calendar.json?nocache=" + (new Date()).getTime());
+    </script>
+
+</body>
+</html>

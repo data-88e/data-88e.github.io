@@ -1,0 +1,141 @@
+[
+    {
+        "date": "Tue, Jan 19",
+        "title": "NO CLASS",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Jan 26",
+        "title": "Lecture 1: Demand",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Feb 2",
+        "title": "Lecture 2: Supply",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Project 1",
+            "dueDate": "Feb 15"
+        }
+    },
+    {
+        "date": "Tue, Feb 9",
+        "title": "Lecture 3: Government Intervention",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Feb 16",
+        "title": "Lecture 4: Production",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Project 2",
+            "dueDate": "Mar 1"
+        }
+    },
+    {
+        "date": "Tue, Feb 23",
+        "title": "Lecture 5: Utility",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Mar 2",
+        "title": "Lecture 6: Development",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Test 1",
+            "dueDate": "Mar 5",
+            "bold": true
+        }
+    },
+    {
+        "date": "Tue, Mar 9",
+        "title": "Lecture 7: Game Theory",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Project 3",
+            "dueDate": "Mar 22"
+        }
+    },
+    {
+        "date": "Tue, Mar 16",
+        "title": "Lecture 8: Inequality",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Mar 23",
+        "title": "NO CLASS: Spring Break",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Project 4",
+            "dueDate": "Apr 5"
+        }
+    }, 
+    {
+        "date": "Tue, Mar 30",
+        "title": "Lecture 9: Behavioral Economics",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Apr 6",
+        "title": "Lecture 10: Finance",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Project 5",
+            "dueDate": "Apr 19"
+        }
+    },
+    {
+        "date": "Tue, Apr 13",
+        "title": "Lecture 11: Econometrics",
+        "materials": [
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Apr 20",
+        "title": "Lecture 12: Macroeconomic Policy",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Apr 27",
+        "title": "Lecture 13: Guest Lecture",
+        "materials": [
+        ],
+        "assignment": {
+            "title": "Test 2",
+            "dueDate": "Apr 30",
+            "bold": true
+        }
+    },
+    {
+        "date": "Tue, May 4",
+        "title": "RRR Week",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, May 11",
+        "title": "Finals",
+        "materials": [],
+        "assignment": null
+    }
+]
