@@ -1,21 +1,21 @@
 [
     {
         "date": "Tue, Jan 19",
-        "title": "NO CLASS",
+        "title": "Lecture 1: Introduction",
         "materials": [
         ],
         "assignment": null
     },
     {
         "date": "Tue, Jan 26",
-        "title": "Lecture 1: Demand",
+        "title": "Lecture 2: Demand",
         "materials": [
         ],
         "assignment": null
     },
     {
         "date": "Tue, Feb 2",
-        "title": "Lecture 2: Supply",
+        "title": "Lecture 3: Supply",
         "materials": [
         ],
         "assignment": {
@@ -25,14 +25,14 @@
     },
     {
         "date": "Tue, Feb 9",
-        "title": "Lecture 3: Government Intervention",
+        "title": "Lecture 4: Government Intervention",
         "materials": [
         ],
         "assignment": null
     },
     {
         "date": "Tue, Feb 16",
-        "title": "Lecture 4: Production",
+        "title": "Lecture 5: Production",
         "materials": [
         ],
         "assignment": {
@@ -42,14 +42,14 @@
     },
     {
         "date": "Tue, Feb 23",
-        "title": "Lecture 5: Utility",
+        "title": "Lecture 6: Utility",
         "materials": [
         ],
         "assignment": null
     },
     {
         "date": "Tue, Mar 2",
-        "title": "Lecture 6: Development",
+        "title": "Lecture 7: Development",
         "materials": [
         ],
         "assignment": {
@@ -60,7 +60,7 @@
     },
     {
         "date": "Tue, Mar 9",
-        "title": "Lecture 7: Game Theory",
+        "title": "Lecture 8: Game Theory",
         "materials": [
         ],
         "assignment": {
@@ -70,7 +70,7 @@
     },
     {
         "date": "Tue, Mar 16",
-        "title": "Lecture 8: Inequality",
+        "title": "Lecture 9: Inequality",
         "materials": [
         ],
         "assignment": null
@@ -87,14 +87,14 @@
     }, 
     {
         "date": "Tue, Mar 30",
-        "title": "Lecture 9: Behavioral Economics",
+        "title": "Lecture 10: Behavioral Economics",
         "materials": [
         ],
         "assignment": null
     },
     {
         "date": "Tue, Apr 6",
-        "title": "Lecture 10: Finance",
+        "title": "Lecture 11: Finance",
         "materials": [
         ],
         "assignment": {
@@ -104,20 +104,20 @@
     },
     {
         "date": "Tue, Apr 13",
-        "title": "Lecture 11: Econometrics",
+        "title": "Lecture 12: Econometrics",
         "materials": [
         ],
         "assignment": null
     },
     {
         "date": "Tue, Apr 20",
-        "title": "Lecture 12: Macroeconomic Policy",
+        "title": "Lecture 13: Macroeconomic Policy",
         "materials": [],
         "assignment": null
     },
     {
         "date": "Tue, Apr 27",
-        "title": "Lecture 13: Guest Lecture",
+        "title": "Lecture 14: Guest Lecture",
         "materials": [
         ],
         "assignment": {
