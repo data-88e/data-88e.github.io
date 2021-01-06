@@ -46,21 +46,35 @@ const calendarTemplate = _.template(`
         
             <% if ("assignment" in week && week.assignment !== null) { %>
 
-                <% if ("bold" in week.assignment && week.assignment.bold) { %>
-                    <strong>
-                <% } %><% if ("url" in week.assignment && week.assignment.url) { %>
-                    <a href="<%= week.assignment.url %>" target="_blank">
-                <% } %>
-                
-                <%= week.assignment.title %>
+                <ul class="list-group">
 
-                <% if ("url" in week.assignment && week.assignment.url) { %>
-                    </a>
-                <% } %><% if ("bold" in week.assignment && week.assignment.bold) { %>
-                    </strong>
-                <% } %> <% if ("dueDate" in week.assignment && week.assignment.dueDate) { %>
-                     (due <%= week.assignment.dueDate %>)
-                <% } %>
+                    <% if (!Array.isArray(week.assignment)) { week.assignment = [week.assignment] } %>
+
+                    <% _.forEach(week.assignment, (assignment) => { %>
+
+                        <li class="list-group-item">
+
+                            <% if (assignment.bold) { %>
+                                <strong>
+                            <% } %><% if (assignment.url) { %>
+                                <a href="<%= week.assignment.url %>" target="_blank">
+                            <% } %>
+                            
+                            <%= assignment.title %>
+
+                            <% if (assignment.url) { %>
+                                </a>
+                            <% } %><% if (assignment.bold) { %>
+                                </strong>
+                            <% } %> <% if (assignment.dueDate) { %>
+                                (due <%= assignment.dueDate %>)
+                            <% } %>
+
+                        </li>
+        
+                    <% }); %>
+
+                </ul>
 
             <% } %>
         

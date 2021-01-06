@@ -4,116 +4,183 @@
         "title": "Lecture 1: Introduction",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 1",
+                "dueDate": "Jan 25"
+            }
+        ]
     },
     {
         "date": "Tue, Jan 26",
         "title": "Lecture 2: Demand",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 2",
+                "dueDate": "Feb 1"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Feb 8"
+            }
+        ]
     },
     {
         "date": "Tue, Feb 2",
         "title": "Lecture 3: Supply",
         "materials": [
         ],
-        "assignment": {
-            "title": "Project 1",
-            "dueDate": "Feb 15"
-        }
+        "assignment": [
+            {
+                "title": "Lab 3",
+                "dueDate": "Feb 8"
+            }
+        ]
     },
     {
         "date": "Tue, Feb 9",
         "title": "Lecture 4: Government Intervention",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 4",
+                "dueDate": "Feb 15"
+            }
+        ]
     },
     {
         "date": "Tue, Feb 16",
         "title": "Lecture 5: Production",
         "materials": [
         ],
-        "assignment": {
-            "title": "Project 2",
-            "dueDate": "Mar 1"
-        }
+        "assignment": [
+            {
+                "title": "Lab 5",
+                "dueDate": "Feb 22"
+            },
+            {
+                "title": "Project 2",
+                "dueDate": "Mar 1"
+            }
+        ]
     },
     {
         "date": "Tue, Feb 23",
         "title": "Lecture 6: Utility",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 6",
+                "dueDate": "Mar 1"
+            }
+        ]
     },
     {
         "date": "Tue, Mar 2",
         "title": "Lecture 7: Development",
         "materials": [
         ],
-        "assignment": {
-            "title": "Test 1",
-            "dueDate": "Mar 5",
-            "bold": true
-        }
+        "assignment": [
+            {
+                "title": "Lab 7",
+                "dueDate": "Mar 8"
+            },
+            {
+                "title": "Test 1",
+                "dueDate": "Mar 5",
+                "bold": true
+            }
+        ]
     },
     {
         "date": "Tue, Mar 9",
         "title": "Lecture 8: Game Theory",
         "materials": [
         ],
-        "assignment": {
-            "title": "Project 3",
-            "dueDate": "Mar 22"
-        }
+        "assignment": [
+            {
+                "title": "Lab 8",
+                "dueDate": "Mar 15"
+            },
+            {
+                "title": "Project 3",
+                "dueDate": "Mar 22"
+            }
+        ]
     },
     {
         "date": "Tue, Mar 16",
         "title": "Lecture 9: Inequality",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 9",
+                "dueDate": "Mar 22"
+            }
+        ]
     },
     {
         "date": "Tue, Mar 23",
         "title": "NO CLASS: Spring Break",
         "materials": [
         ],
-        "assignment": {
-            "title": "Project 4",
-            "dueDate": "Apr 5"
-        }
+        "assignment": null
     }, 
     {
         "date": "Tue, Mar 30",
         "title": "Lecture 10: Behavioral Economics",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 10",
+                "dueDate": "Apr 5"
+            }
+        ]
     },
     {
         "date": "Tue, Apr 6",
         "title": "Lecture 11: Finance",
         "materials": [
         ],
-        "assignment": {
-            "title": "Project 5",
-            "dueDate": "Apr 19"
-        }
+        "assignment": [
+            {
+                "title": "Lab 11",
+                "dueDate": "Apr 12"
+            }
+        ]
     },
     {
         "date": "Tue, Apr 13",
         "title": "Lecture 12: Econometrics",
         "materials": [
         ],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 12",
+                "dueDate": "Apr 19"
+            },
+            {
+                "title": "Project 4",
+                "dueDate": "Apr 26"
+            }
+        ]
     },
     {
         "date": "Tue, Apr 20",
         "title": "Lecture 13: Macroeconomic Policy",
         "materials": [],
-        "assignment": null
+        "assignment": [
+            {
+                "title": "Lab 13",
+                "dueDate": "Apr 26"
+            }
+        ]
     },
     {
         "date": "Tue, Apr 27",
