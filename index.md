@@ -24,6 +24,7 @@ The course is offered in partnership with the [Berkeley Division of Data Science
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
+- [Spring 2021](sp21)
 - [Fall 2020](fa20)
 - [Spring 2020](sp20)
 - [Fall 2019](fa19)
