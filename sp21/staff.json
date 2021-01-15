@@ -28,6 +28,12 @@
             "blurb": "Hey! My name is Emily. I'm a sophomore studying Data Science and Economics. In my free time, I like to travel, listen to music, and watch YouTube videos. Looking forward to meeting you all this semester!"
         },
         {
+            "name": "Matthew Yep",
+            "email": "mattyep@berkeley.edu",
+            "imgUrl": "assets/staff_pics/matthew.jpeg",
+            "blurb": "Hi my name is Matthew, and I’m a junior studying economics and data science. I like to watch the NBA, play Settlers of Catan, and have been learning how to fish during lockdown."
+        },
+        {
             "name": "Rohan Jha",
             "email": "rohan.jha@berkeley.edu",
             "imgUrl": "assets/staff_pics/rohan.png",
