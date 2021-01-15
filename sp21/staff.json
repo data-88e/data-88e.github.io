@@ -14,5 +14,12 @@
             "blurb": "Hi! I'm a fourth-year CS + DS major, and I also teach Data 100. Looking forward to meeting everyon this semester!"
         }
     ],
-    "Connector Assistants": []
+    "Connector Assistants": [
+        {
+            "name": "Avantika Ghosh",
+            "email": "ghoshavantika_123@berkeley.edu",
+            "imgUrl": "assets/staff_pics/avantika.png",
+            "blurb": "Hello, my name is Avantika Ghosh and I am a 2nd year student studying Computer Science and Economics. As one of your Connector Assistants in Data 88E, I am very excited to delve deeper into the exciting world of Data Science and Economics this Spring with all of you! I look forward to meeting everyone in my Office Hours."
+        }
+    ]
 }
