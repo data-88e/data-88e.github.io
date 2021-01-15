@@ -32,9 +32,9 @@ var html = `
                     <a class="nav-link" href="policies.html">Policies</a>
                 </li>
 
-                <!-- <li class="nav-item">
+                <li class="nav-item">
                     <a class="nav-link" href="staff.html">Staff</a>
-                </li> -->
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="https://piazza.com/berkeley/spring2021/data88e/home">Piazza</a>
