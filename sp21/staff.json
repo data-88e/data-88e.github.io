@@ -26,6 +26,12 @@
             "email": "emily_guo@berkeley.edu",
             "imgUrl": "assets/staff_pics/emily.png",
             "blurb": "Hey! My name is Emily. I'm a sophomore studying Data Science and Economics. In my free time, I like to travel, listen to music, and watch YouTube videos. Looking forward to meeting you all this semester!"
+        },
+        {
+            "name": "Rohan Jha",
+            "email": "rohan.jha@berkeley.edu",
+            "imgUrl": "assets/staff_pics/rohan.png",
+            "blurb": "Hey! I actually just took this course last semester and so I have a pretty recent experience with what it’s like to take this course - feel free to hmu for tips on how to succeed. Other than that, I’m an international kid from Dubai who’s into boxing, casual philosophy (in other words, I hate essays) and having new experiences (feel free to reach out to me with any ideas lol).  Looking forward to meeting y’all this semester."
         }
     ]
 }
