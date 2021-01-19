@@ -7,6 +7,12 @@
             "blurb": "Hi! I am a EECS Masters student, previously having majored in Economics and CS at Cal. I’m sort of from Shanghai, and this semester I also teach ECON 140. Some things I enjoy include discovering good food, shibes, consumerism, and data science; guess which one is my favorite ;’) Looking forward to a great semester and e-meeting you all!"
         },
         {
+            "name": "Amal Bhatnagar",
+            "email": "amalbhatnagar@berkeley.edu",
+            "imgUrl": "assets/staff_pics/amal.png",
+            "blurb": "Amal is a Senior originally from Atlanta. He loves to hike, write and play basketball. A fun fact about him is that he's publishing a book about data science in venture capital this semester. Come to office hours to learn more!"
+        },
+        {
             "name": "Chris Pyles",
             "email": "cpyles@berkeley.edu",
             "website": "https://chrispyles.io",
