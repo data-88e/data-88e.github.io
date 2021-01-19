@@ -4,12 +4,7 @@
         "title": "Lecture 1: Introduction",
         "materials": [
         ],
-        "assignment": [
-            {
-                "title": "Lab 1",
-                "dueDate": "Jan 25"
-            }
-        ]
+        "assignment": null
     },
     {
         "date": "Tue, Jan 26",
@@ -18,7 +13,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 2",
+                "title": "Lab 1",
                 "dueDate": "Feb 1"
             },
             {
@@ -34,7 +29,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 3",
+                "title": "Lab 2",
                 "dueDate": "Feb 8"
             }
         ]
@@ -46,7 +41,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 4",
+                "title": "Lab 3",
                 "dueDate": "Feb 15"
             }
         ]
@@ -58,7 +53,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 5",
+                "title": "Lab 4",
                 "dueDate": "Feb 22"
             },
             {
@@ -74,7 +69,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 6",
+                "title": "Lab 5",
                 "dueDate": "Mar 1"
             }
         ]
@@ -86,7 +81,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 7",
+                "title": "Lab 6",
                 "dueDate": "Mar 8"
             },
             {
@@ -103,7 +98,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 8",
+                "title": "Lab 7",
                 "dueDate": "Mar 15"
             },
             {
@@ -119,7 +114,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 9",
+                "title": "Lab 8",
                 "dueDate": "Mar 22"
             }
         ]
@@ -138,7 +133,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 10",
+                "title": "Lab 9",
                 "dueDate": "Apr 5"
             }
         ]
@@ -150,7 +145,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 11",
+                "title": "Lab 10",
                 "dueDate": "Apr 12"
             }
         ]
@@ -162,7 +157,7 @@
         ],
         "assignment": [
             {
-                "title": "Lab 12",
+                "title": "Lab 11",
                 "dueDate": "Apr 19"
             },
             {
@@ -177,7 +172,7 @@
         "materials": [],
         "assignment": [
             {
-                "title": "Lab 13",
+                "title": "Lab 12",
                 "dueDate": "Apr 26"
             }
         ]
