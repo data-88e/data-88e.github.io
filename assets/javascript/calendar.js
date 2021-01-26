@@ -57,7 +57,7 @@ const calendarTemplate = _.template(`
                             <% if (assignment.bold) { %>
                                 <strong>
                             <% } %><% if (assignment.url) { %>
-                                <a href="<%= week.assignment.url %>" target="_blank">
+                                <a href="<%= assignment.url %>" target="_blank">
                             <% } %>
                             
                             <%= assignment.title %>
