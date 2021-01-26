@@ -20,6 +20,10 @@
         "title": "Lecture 2: Demand",
         "materials": [
             {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/15kTpyucdzn17tKn08I5Jsz8R68o9ZkXbJgcpW8rTvHM/edit"
+            },
+            {
                 "title": "Demand Curve",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec02%2Fdemand-curve.ipynb&branch=main"
             }
