@@ -13,6 +13,12 @@
             "blurb": "Amal is a Senior originally from Atlanta. He loves to hike, write and play basketball. A fun fact about him is that he's publishing a book about data science in venture capital this semester. Come to office hours to learn more!"
         },
         {
+            "name": "Andrei Caprau",
+            "email": "acaprau@berkeley.edu",
+            "imgUrl": "assets/staff_pics/andrei.jpg",
+            "blurb": " Hi everyone, I’m a 5th year majoring in Economics, Data Science, and Computer Science. I also teach Econ 140 this semester. I hope everyone enjoys our class as much as we enjoy teaching it!"
+        },
+        {
             "name": "Chris Pyles",
             "email": "cpyles@berkeley.edu",
             "website": "https://chrispyles.io",
