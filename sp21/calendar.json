@@ -131,6 +131,10 @@
         "title": "Lecture 6: Utility",
         "materials": [
             {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1XDEXbt00uy1UU2t-0ca6h7mf2Wp1y6m4ao6yOw-4H3Y/edit?usp=sharing"
+            },
+            {
                 "title": "Lab 5 Template",
                 "url": "https://raw.githubusercontent.com/data-88e/econ-sp21/main/lab/lab05/lab05-template.tex"
             }
