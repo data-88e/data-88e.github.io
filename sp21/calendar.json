@@ -130,6 +130,10 @@
         "date": "Tue, Feb 23",
         "title": "Lecture 6: Utility",
         "materials": [
+            {
+                "title": "Lab 5 Template",
+                "url": "https://raw.githubusercontent.com/data-88e/econ-sp21/main/lab/lab05/lab05-template.tex"
+            }
         ],
         "assignment": [
             {
@@ -138,8 +142,10 @@
             },
             {
                 "title": "Lab 5",
-                "dueDate": "Mar 1"
+                "dueDate": "Mar 1",
+                "url": "https://github.com/data-88e/econ-sp21/blob/main/lab/lab05/lab05.pdf"
             }
+            
         ]
     },
     {
