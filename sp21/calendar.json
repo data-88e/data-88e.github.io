@@ -188,19 +188,30 @@
         "date": "Tue, Mar 9",
         "title": "Lecture 8: Game Theory",
         "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1YZl3InLn689m-O6qF2Zn8jNO8SR0RfuaNLc8s7Jnh5k/edit?usp=sharing"
+            },
+            {
+                "title": "Prisoner's Dilemma Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec08%2Flec08.ipynb&branch=main"
+            }
         ],
         "assignment": [
             {
                 "title": "Lecture 8 Quiz",
-                "dueDate": "Mar 10"
+                "dueDate": "Mar 10",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1086241"
             },
             {
                 "title": "Lab 7",
-                "dueDate": "Mar 15"
+                "dueDate": "Mar 15",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab07%2Flab07.ipynb&branch=main"
             },
             {
                 "title": "Project 3",
-                "dueDate": "Mar 22"
+                "dueDate": "Mar 22",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Fproj%2Fproj03%2Fproj03.ipynb&branch=main"
             }
         ]
     },
