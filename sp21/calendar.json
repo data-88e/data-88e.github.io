@@ -227,11 +227,13 @@
         "assignment": [
             {
                 "title": "Lecture 9 Quiz",
-                "dueDate": "Mar 17"
+                "dueDate": "Mar 17",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1101656"
             },
             {
                 "title": "Lab 8",
-                "dueDate": "Mar 29"
+                "dueDate": "Mar 29",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab08%2Flab08.ipynb&branch=main"
             }
         ]
     },
