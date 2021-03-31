@@ -261,6 +261,10 @@
                 "url": "https://docs.google.com/presentation/d/1bP_fsia6NRX0X1jc6IuETfUZsWitNtrdzI_-BO78-Go/edit?usp=sharing"
             },
             {
+                "title": "Annotated Slides",
+                "url": "assets/lec10-annotated.pptx"
+            },
+            {
                 "title": "Lecture Notebook",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec10%2Flec10.ipynb&branch=main"
             }
