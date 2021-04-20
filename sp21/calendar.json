@@ -314,10 +314,6 @@
                 "title": "Lab 10",
                 "dueDate": "Apr 19",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab10%2Flab10.ipynb&branch=main"
-            },
-            {
-                "title": "Project 4",
-                "dueDate": "Apr 26"
             }
         ]
     },
@@ -332,7 +328,13 @@
             },
             {
                 "title": "Lab 11",
-                "dueDate": "Apr 26"
+                "dueDate": "Apr 26",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab11%2Flab11.ipynb&branch=main"
+            },
+            {
+                "title": "Project 4",
+                "dueDate": "May 3",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Fproj%2Fproj04%2Fproj04.ipynb&branch=main"
             }
         ]
     },
