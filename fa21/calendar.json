@@ -1,0 +1,355 @@
+[
+    {
+        "date": "Tue, Jan 19",
+        "title": "Lecture 1: Introduction",
+        "materials": [
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 1 Quiz",
+                "dueDate": "Jan 20"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Jan 26",
+        "title": "Lecture 2: Demand",
+        "materials": [
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 2 Quiz",
+                "dueDate": "Jan 27"
+            },
+            {
+                "title": "Lab 1",
+                "dueDate": "Feb 1"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Feb 15"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Feb 2",
+        "title": "Lecture 3: Supply",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1tuOh1s6yTx5Mp4o9VIcF1mUe70uJmpgL5fZJMDTzhog/edit"
+            },
+            {
+                "title": "Supply Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec03%2Flec03.ipynb&branch=main"
+            },
+            {
+                "title": "SymPy and Market Equilibrium Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec03%2Flec03-sympy.ipynb&branch=main"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 3 Quiz",
+                "dueDate": "Feb 3",
+                "url": "https://www.gradescope.com/courses/227178/assignments/988185"
+            },
+            {
+                "title": "Lab 2",
+                "dueDate": "Feb 8",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab02%2Flab02.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Feb 9",
+        "title": "Lecture 4: Government Intervention",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1sAiB4tBNflZZSuz_sXLI6_rC_669sO993Sc_LllVyJw/edit?usp=sharing"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 4 Quiz",
+                "dueDate": "Feb 10",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1008959"
+            },
+            {
+                "title": "Lab 3",
+                "dueDate": "Feb 15",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab03%2Flab03.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Feb 16",
+        "title": "Lecture 5: Production",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://drive.google.com/file/d/1MSTtmPIfU-7JtOhEhtPRYgQ8_ISjxuxm/view?usp=sharing"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 5 Quiz",
+                "dueDate": "Feb 17",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1026913"
+            },
+            {
+                "title": "Lab 4",
+                "dueDate": "Feb 23",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab04-2%2Flab04.ipynb&branch=main"
+            },
+            {
+                "title": "Project 2",
+                "dueDate": "Mar 2",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Fproj%2Fproj02-2%2Fproj02.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Feb 23",
+        "title": "Lecture 6: Utility",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1XDEXbt00uy1UU2t-0ca6h7mf2Wp1y6m4ao6yOw-4H3Y/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 5 Template",
+                "url": "https://raw.githubusercontent.com/data-88e/econ-sp21/main/lab/lab05/lab05-template.tex"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 6 Quiz",
+                "dueDate": "Feb 24",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1047269"
+            },
+            {
+                "title": "Lab 5",
+                "dueDate": "Mar 1",
+                "url": "https://github.com/data-88e/econ-sp21/blob/main/lab/lab05/lab05.pdf"
+            }
+            
+        ]
+    },
+    {
+        "date": "Tue, Mar 2",
+        "title": "Lecture 7: Inequality",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1TRqfNzuVJviJqI6jyBzfZLbu_ABMTmbqyl_zlHiWE5I/edit?usp=sharing"
+            },
+            {
+                "title": "PIT and Inequality Thesis Slides",
+                "url": "assets/lec07-guest-slides.pdf"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 7 Quiz",
+                "dueDate": "Mar 3",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1067958"
+            },
+            {
+                "title": "Lab 6",
+                "dueDate": "Mar 8",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab06%2Flab06.ipynb&branch=main"
+            },
+            {
+                "title": "Test 1",
+                "dueDate": "Mar 5",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "date": "Tue, Mar 9",
+        "title": "Lecture 8: Game Theory",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1YZl3InLn689m-O6qF2Zn8jNO8SR0RfuaNLc8s7Jnh5k/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Slides",
+                "url": "assets/lec08-annotated.pdf"
+            },
+            {
+                "title": "Prisoner's Dilemma Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec08%2Flec08.ipynb&branch=main"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 8 Quiz",
+                "dueDate": "Mar 10",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1086241"
+            },
+            {
+                "title": "Lab 7",
+                "dueDate": "Mar 15",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab07%2Flab07.ipynb&branch=main"
+            },
+            {
+                "title": "Project 3",
+                "dueDate": "Mar 29",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Fproj%2Fproj03%2Fproj03.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Mar 16",
+        "title": "Lecture 9: Development",
+        "materials": [
+             {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1Duy0B_TyNq_B8Z2fX-wlXIPX3xt-O94nHYXS4ud1ARA/edit?usp=sharing"
+            },
+            {
+                "title": "Facebook Election Ads",
+                "url": "https://docs.google.com/presentation/d/1NdbYgikwy__D-WYRhJU1o8mB0tOfjioeja2I2ZuVeWA/edit?usp=sharing"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 9 Quiz",
+                "dueDate": "Mar 17",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1101656"
+            },
+            {
+                "title": "Lab 8",
+                "dueDate": "Mar 29",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab08%2Flab08.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Mar 23",
+        "title": "NO CLASS: Spring Break",
+        "materials": [
+        ],
+        "assignment": null
+    }, 
+    {
+        "date": "Tue, Mar 30",
+        "title": "Lecture 10: Macroeconomic Policy",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1bP_fsia6NRX0X1jc6IuETfUZsWitNtrdzI_-BO78-Go/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Slides",
+                "url": "assets/lec10-annotated.pptx"
+            },
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec10%2Flec10.ipynb&branch=main"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 10 Quiz",
+                "dueDate": "Mar 31",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1138914"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Apr 6",
+        "title": "Lecture 11: Finance",
+        "materials": [
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 11 Quiz",
+                "dueDate": "Apr 7",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1153230"
+            },
+            {
+                "title": "Lab 9",
+                "dueDate": "Apr 12",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab09%2Flab09.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Apr 13",
+        "title": "Lecture 12: Econometrics I",
+        "materials": [
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flec%2Flec12%2Flec12.ipynb&branch=main"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 12 Quiz",
+                "dueDate": "Apr 14",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1174324"
+            },
+            {
+                "title": "Lab 10",
+                "dueDate": "Apr 19",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab10%2Flab10.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Apr 20",
+        "title": "Lecture 13: Econometrics II",
+        "materials": [],
+        "assignment": [
+            {
+                "title": "Lecture 13 Quiz",
+                "dueDate": "Apr 21",
+                "url": "https://www.gradescope.com/courses/227178/assignments/1192210"
+            },
+            {
+                "title": "Lab 11",
+                "dueDate": "Apr 26",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Flab%2Flab11%2Flab11.ipynb&branch=main"
+            },
+            {
+                "title": "Project 4",
+                "dueDate": "May 3",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-sp21&urlpath=tree%2Fecon-sp21%2Fproj%2Fproj04%2Fproj04.ipynb&branch=main"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Apr 27",
+        "title": "Lecture 14: Guest Lecture",
+        "materials": [
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 14 Quiz",
+                "dueDate": "Apr 28"
+            },
+            {
+                "title": "Test 2",
+                "dueDate": "Apr 30",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "date": "Tue, May 4",
+        "title": "RRR Week",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, May 11",
+        "title": "Finals",
+        "materials": [],
+        "assignment": null
+    }
+]

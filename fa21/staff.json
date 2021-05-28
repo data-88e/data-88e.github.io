@@ -1,0 +1,61 @@
+{
+    "Course Staff": [
+        {
+            "name": "Alan Liang",
+            "email": "alanliang@berkeley.edu",
+            "imgUrl": "assets/staff_pics/alan.jpg",
+            "blurb": "Hi! I am a EECS Masters student, previously having majored in Economics and CS at Cal. I’m sort of from Shanghai, and this semester I also teach ECON 140. Some things I enjoy include discovering good food, shibes, consumerism, and data science; guess which one is my favorite ;’) Looking forward to a great semester and e-meeting you all!"
+        },
+        {
+            "name": "Amal Bhatnagar",
+            "email": "amalbhatnagar@berkeley.edu",
+            "imgUrl": "assets/staff_pics/amal.png",
+            "blurb": "Amal is a Senior originally from Atlanta. He loves to hike, write and play basketball. A fun fact about him is that he's publishing a book about data science in venture capital this semester. Come to office hours to learn more!"
+        },
+        {
+            "name": "Andrei Caprau",
+            "email": "acaprau@berkeley.edu",
+            "imgUrl": "assets/staff_pics/andrei.jpg",
+            "blurb": " Hi everyone, I’m a 5th year majoring in Economics, Data Science, and Computer Science. I also teach Econ 140 this semester. I hope everyone enjoys our class as much as we enjoy teaching it!"
+        },
+        {
+            "name": "Chris Pyles",
+            "email": "cpyles@berkeley.edu",
+            "website": "https://chrispyles.io",
+            "imgUrl": "assets/staff_pics/chris.jpg",
+            "blurb": "Hi! I'm a fourth-year CS + DS major, and I also teach Data 100. Looking forward to meeting everyon this semester!"
+        }
+    ],
+    "Connector Assistants": [
+        {
+            "name": "Avantika Ghosh",
+            "email": "ghoshavantika_123@berkeley.edu",
+            "imgUrl": "assets/staff_pics/avantika.png",
+            "blurb": "Hello, my name is Avantika Ghosh and I am a 2nd year student studying Computer Science and Economics. As one of your Connector Assistants in Data 88E, I am very excited to delve deeper into the exciting world of Data Science and Economics this Spring with all of you! I look forward to meeting everyone in my Office Hours."
+        },
+        {
+            "name": "Emily Guo",
+            "email": "emily_guo@berkeley.edu",
+            "imgUrl": "assets/staff_pics/emily.png",
+            "blurb": "Hey! My name is Emily. I'm a sophomore studying Data Science and Economics. In my free time, I like to travel, listen to music, and watch YouTube videos. Looking forward to meeting you all this semester!"
+        },
+        {
+            "name": "Matthew Yep",
+            "email": "mattyep@berkeley.edu",
+            "imgUrl": "assets/staff_pics/matthew.jpeg",
+            "blurb": "Hi my name is Matthew, and I’m a junior studying economics and data science. I like to watch the NBA, play Settlers of Catan, and have been learning how to fish during lockdown."
+        },
+        {
+            "name": "Rohan Jha",
+            "email": "rohan.jha@berkeley.edu",
+            "imgUrl": "assets/staff_pics/rohan.png",
+            "blurb": "Hey! I actually just took this course last semester and so I have a pretty recent experience with what it’s like to take this course - feel free to hmu for tips on how to succeed. Other than that, I’m an international kid from Dubai who’s into boxing, casual philosophy (in other words, I hate essays) and having new experiences (feel free to reach out to me with any ideas lol).  Looking forward to meeting y’all this semester."
+        },
+        {
+            "name": "Sreeja Apparaju",
+            "email": "sreeja.apparaju@berkeley.edu",
+            "imgUrl": "assets/staff_pics/sreeja.png",
+            "blurb": "Hello! My name is Sreeja and I’m a sophomore studying Economics and Computer Science. I took this course during my first semester and this will be my second time CA’ing it. I enjoy caffeinated drinks, board games and anything to do with food. I am really excited meet y’all this semester! (Please don’t forget to wear your face masks and stay safe!)"
+        }
+    ]
+}
