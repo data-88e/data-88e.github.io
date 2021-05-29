@@ -1,4 +1,12 @@
 {
+    "Instructor": [
+        {
+            "name": "Eric Van Dusen",
+            "email": "ericvd@berkeley.edu",
+            "imgUrl": "",
+            "blurb": "Hi! I am Eric..."
+        }
+    ],
     "Course Staff": [
         {
             "name": "Alan Liang",
