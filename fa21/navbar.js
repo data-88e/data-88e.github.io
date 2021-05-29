@@ -2,7 +2,7 @@ var html = `
 <nav class="navbar navbar-light bg-light navbar-expand-lg position-sticky fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <a class="navbar-brand" href="./">
+        <a class="navbar-brand" href="https://data-88e.github.io/">
           <img src="../assets/images/blue_text.png" height="25px" />
         </a>
 
