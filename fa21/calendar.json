@@ -54,8 +54,7 @@
         ],
         "assignment": [ 
             {
-                "title": "Test 1",
-                "dueDate": "Oct 12"
+                "title": "Test 1"
             }
         ]
     },
@@ -113,8 +112,7 @@
         ],
         "assignment": [ 
             {
-                "title": "Test 2",
-                "dueDate": "Nov 30"
+                "title": "Test 2"
             }
         ]
     }
