@@ -52,8 +52,8 @@
         "title": "Lecture 7: Inequality",
         "materials": [
         ],
-        "assignment": [ "title": "Lecture 1 Quiz",
-            "dueDate": "Jan 20"
+        "assignment": [ {"title": "Lecture 1 Quiz",
+            "dueDate": "Jan 20"}
         ]
     },
     {
@@ -108,8 +108,8 @@
         "title": "Lecture 14: Guest Lecture",
         "materials": [
         ],
-        "assignment": [ "title": "Lecture 1 Quiz",
-            "dueDate": "Jan 20"
+        "assignment": [ {"title": "Lecture 1 Quiz",
+            "dueDate": "Jan 20"}
         ]
     }
 ]
