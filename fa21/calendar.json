@@ -52,7 +52,8 @@
         "title": "Lecture 7: Inequality",
         "materials": [
         ],
-        "assignment": [
+        "assignment": [ "title": "Lecture 1 Quiz",
+            "dueDate": "Jan 20"
         ]
     },
     {
@@ -89,7 +90,7 @@
     },
     {
         "date": "Tue, Nov 16",
-        "title": "Lecture 12: Econometrics I",
+        "title": "Lecture 12: Econometrics",
         "materials": [
         ],
         "assignment": [
@@ -97,7 +98,7 @@
     },
     {
         "date": "Tue, Nov 23",
-        "title": "Lecture 13: Econometrics II",
+        "title": "Lecture 13: Environmental",
         "materials": [],
         "assignment": [
         ]
@@ -107,7 +108,8 @@
         "title": "Lecture 14: Guest Lecture",
         "materials": [
         ],
-        "assignment": [
+        "assignment": [ "title": "Lecture 1 Quiz",
+            "dueDate": "Jan 20"
         ]
     }
 ]
