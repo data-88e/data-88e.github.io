@@ -15,25 +15,6 @@
             "blurb": "Hi! I am a EECS Masters student, previously having majored in Economics and CS at Cal. I’m sort of from Shanghai, and this semester I also teach ECON 140. Some things I enjoy include discovering good food, shibes, consumerism, and data science; guess which one is my favorite ;’) Looking forward to a great semester and e-meeting you all!"
         },
         {
-            "name": "Amal Bhatnagar",
-            "email": "amalbhatnagar@berkeley.edu",
-            "imgUrl": "assets/staff_pics/amal.png",
-            "blurb": "Amal is a Senior originally from Atlanta. He loves to hike, write and play basketball. A fun fact about him is that he's publishing a book about data science in venture capital this semester. Come to office hours to learn more!"
-        },
-        {
-            "name": "Andrei Caprau",
-            "email": "acaprau@berkeley.edu",
-            "imgUrl": "assets/staff_pics/andrei.jpg",
-            "blurb": " Hi everyone, I’m a 5th year majoring in Economics, Data Science, and Computer Science. I also teach Econ 140 this semester. I hope everyone enjoys our class as much as we enjoy teaching it!"
-        },
-        {
-            "name": "Chris Pyles",
-            "email": "cpyles@berkeley.edu",
-            "website": "https://chrispyles.io",
-            "imgUrl": "assets/staff_pics/chris.jpg",
-            "blurb": "Hi! I'm a fourth-year CS + DS major, and I also teach Data 100. Looking forward to meeting everyon this semester!"
-        },
-        {
             "name": "Matthew Yep",
             "email": "mattyep@berkeley.edu",
             "imgUrl": "assets/staff_pics/matthew.jpeg",
@@ -59,5 +40,23 @@
         }
     ],
     "Connector Assistants": [
+        {
+            "name": "Cole Ginter",
+        },
+        {
+            "name": "Ergun Acikoz",
+        },
+        {
+            "name": "Hector Juarez-Vargas",
+        },
+        {
+            "name": "Isabella Siu",
+        },
+        {
+            "name": "Swathi Ramaprasad",
+        },
+        {
+            "name": "Vaidehi Bulusu",
+        }
     ]
 }
