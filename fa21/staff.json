@@ -59,6 +59,12 @@
             "blurb": "Hello"
         },
         {
+            "name": "Peter Flo Grinde-Hollevik",
+            "email": "hollevik@berkeley.edu",
+            "imgUrl": "assets/staff_pics/peter.jpg",
+            "blurb": "Peter is a 2nd year double-majoring in Data Science and Environmental Economics and Policy. He is passionate about finding new solution for a more sustainable future, and spends his free time hiking or reading random books on astrophysics as often as he can."
+        },
+        {
             "name": "Isabella Siu",
             "email": "isiu@berkeley.edu",
             "imgUrl": "assets/staff_pics/ergun.jpg",
