@@ -45,6 +45,9 @@
         },
         {
             "name": "Ergun Acikoz",
+            "email": "ergunackz@berkeley.edu",
+            "imgUrl": "assets/staff_pics/ergun.jpg",
+            "blurb": "Hello! I’m Ergun, from Istanbul Turkey. I’m a sophomore studying CS and ORMS. I used to play ice-hockey and I like geography!"
         },
         {
             "name": "Hector Juarez-Vargas",
@@ -53,10 +56,10 @@
             "name": "Isabella Siu",
         },
         {
-            "name": "Swathi Ramaprasad",
-        },
-        {
             "name": "Vaidehi Bulusu",
+            "email": "vaidehi-b@berkeley.edu",
+            "imgUrl": "assets/staff_pics/vaidehi.png",
+            "blurb": "Hi! I’m Vaidehi, a sophomore studying economics and data science. I really enjoyed taking DATA 88E last semester (in spring 2021) and hope you enjoy it as well! This semester, I’m looking forward to helping students as a Connector Assistant. Feel free to reach out to me about any doubts you have or tips for doing well in the class."
         }
     ]
 }
