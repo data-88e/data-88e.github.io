@@ -3,8 +3,8 @@
         {
             "name": "Eric Van Dusen",
             "email": "ericvd@berkeley.edu",
-            "imgUrl": "assets/staff_pics/matthew.jpeg",
-            "blurb": "Hi! I am Eric..."
+            "imgUrl": "assets/staff_pics/eric.jpeg",
+            "blurb": "Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring."
         }
     ],
     "Course Staff": [
@@ -67,7 +67,7 @@
         {
             "name": "Vaidehi Bulusu",
             "email": "vaidehi-b@berkeley.edu",
-            "imgUrl": "assets/staff_pics/vaidehi.png",
+            "imgUrl": "assets/staff_pics/vaidehi.jpeg",
             "blurb": "Hi! I’m Vaidehi, a sophomore studying economics and data science. I really enjoyed taking DATA 88E last semester (in spring 2021) and hope you enjoy it as well! This semester, I’m looking forward to helping students as a Connector Assistant. Feel free to reach out to me about any doubts you have or tips for doing well in the class."
         }
     ]
