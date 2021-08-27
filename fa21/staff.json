@@ -3,7 +3,7 @@
         {
             "name": "Eric Van Dusen",
             "email": "ericvd@berkeley.edu",
-            "imgUrl": "",
+            "imgUrl": "assets/staff_pics/matthew.jpeg",
             "blurb": "Hi! I am Eric..."
         }
     ],
@@ -42,6 +42,9 @@
     "Connector Assistants": [
         {
             "name": "Cole Ginter",
+            "email": "cole_ginter@berkeley.edu",
+            "imgUrl": "assets/staff_pics/ergun.jpg",
+            "blurb": "Hello"
         },
         {
             "name": "Ergun Acikoz",
@@ -51,9 +54,15 @@
         },
         {
             "name": "Hector Juarez-Vargas",
+            "email": "hectorvjuarez1@berkeley.edu",
+            "imgUrl": "assets/staff_pics/ergun.jpg",
+            "blurb": "Hello"
         },
         {
             "name": "Isabella Siu",
+            "email": "isiu@berkeley.edu",
+            "imgUrl": "assets/staff_pics/ergun.jpg",
+            "blurb": "Hello"
         },
         {
             "name": "Vaidehi Bulusu",
