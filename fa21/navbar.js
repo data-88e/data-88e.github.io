@@ -37,7 +37,7 @@ var html = `
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="piazza.com/berkeley/fall2021/data88e">Piazza</a>
+                    <a class="nav-link" href="https://piazza.com/berkeley/fall2021/data88e/home">Piazza</a>
                 </li>
 
                 <li class="nav-item">
