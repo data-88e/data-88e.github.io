@@ -37,11 +37,11 @@ var html = `
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://piazza.com/berkeley/spring2021/data88e/home">Piazza</a>
+                    <a class="nav-link" href="piazza.com/berkeley/fall2021/data88e">Piazza</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.gradescope.com/courses/227178">Gradescope</a>
+                    <a class="nav-link" href="https://www.gradescope.com/courses/273113">Gradescope</a>
                 </li>
 
                 <li class="nav-item dropdown">
