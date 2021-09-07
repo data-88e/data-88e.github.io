@@ -32,8 +32,34 @@
         "date": "Tue, Sept 7",
         "title": "Lecture 2: Demand",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1gExdkmhso8zL9DgswYonUEam5R5vp3GhAPismpV5dyA/edit?usp=sharing"
+            },
+            {
+                "title": "Building a Demand Curve",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fdemand-curve.ipynb&branch=master"
+            },
+            {
+                "title": "Demand for Avocados",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fslides-pt2.ipynb&branch=master"
+            },
+            {
+                "title": "Musk's effect on Dogecoin",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2FCausal_effect_of_Musk_on_Doge+.ipynb&branch=master"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lab 1",
+                "dueDate": "Sept 13",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab01%2Flab01.ipynb&branch=master"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Sept 27",
+                "url": "project/proj1/proj01.ipynb"
+            }
         ]
     },
     {
