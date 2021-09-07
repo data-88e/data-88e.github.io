@@ -51,6 +51,11 @@
         ],
         "assignment": [
             {
+                "title": "Lecture 2 Attendance Quiz",
+                "dueDate": "Sep 7",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1470735/"
+            },
+            {
                 "title": "Lab 1",
                 "dueDate": "Sept 13",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab01%2Flab01.ipynb&branch=master"
