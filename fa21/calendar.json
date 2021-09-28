@@ -123,8 +123,27 @@
         "date": "Tue, Sept 28",
         "title": "Lecture 5: Production",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/10X_pE9gKsEsEw1Mvo6tuzLHmzUrurBi7suHA92U2e0U/edit?usp=sharing"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 5 Attendance Quiz",
+                "dueDate": "Sep 7",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1531733/"
+            },
+            {
+                "title": "Lab 4",
+                "dueDate": "Oct 6",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab04%2Flab04.ipynb&branch=master"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Oct 18",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Fproject%2Fproj2%2Fproj02.ipynb&branch=master"
+            }
         ]
     },
     {
