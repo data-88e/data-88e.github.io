@@ -162,8 +162,21 @@
         "date": "Tue, Oct 5",
         "title": "Lecture 6: Utility",
         "materials": [
+            {
+            "title": "Lecture Slides",
+            "url": "https://docs.google.com/presentation/d/1W36E6eUYo5zAOyv_uM94cYTRvi-ZDIogQgIkv_TuJEc/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 5 Template",
+                "url": "https://raw.githubusercontent.com/data-88e/88e-fa21/9cadd8068870c1ccd6a6f050564298720987c3c2/lab/lab05/lab05-template.tex"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lab 5",
+                "dueDate": "Oct 11",
+                "url": "https://drive.google.com/file/d/14CPyhmKU5oIfhjuXWYpayBzNnFgGhbZr/view?usp=sharing"
+            }
         ]
     },
     {
