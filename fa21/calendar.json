@@ -167,6 +167,10 @@
             "url": "https://docs.google.com/presentation/d/1W36E6eUYo5zAOyv_uM94cYTRvi-ZDIogQgIkv_TuJEc/edit?usp=sharing"
             },
             {
+                "title": "LaTeX Guide",
+                "url": "https://math.hws.edu/gassert/LaTeX_Guide_Title.pdf"
+            },
+            {
                 "title": "Lab 5 Template",
                 "url": "https://raw.githubusercontent.com/data-88e/88e-fa21/9cadd8068870c1ccd6a6f050564298720987c3c2/lab/lab05/lab05-template.tex"
             }
