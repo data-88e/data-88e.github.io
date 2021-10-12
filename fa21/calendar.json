@@ -196,6 +196,11 @@
         "assignment": [ 
             {
                 "title": "Test 1"
+            },
+            {
+                "title": "Lab 6",
+                "dueDate": "Oct 18",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab06%2Flab06.ipynb&branch=master"
             }
         ]
     },
