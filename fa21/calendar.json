@@ -215,6 +215,10 @@
             {
                 "title": "Lecture Slides",
                 "url": "https://docs.google.com/presentation/d/1-3ByeNqpDx7KB5Rp0zqye4TYsY332MGCUA6CEop0xC0/edit?usp=sharing"
+            },
+            {
+                "title": "Iterated Prisoner's Dilemma Introduction",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec07%2Flec07.ipynb&branch=master"
             }
         ],
         "assignment": [
