@@ -269,8 +269,21 @@
         "date": "Tue, Nov 2",
         "title": "Lecture 10: Macroeconomic Policy",
         "materials": [
+            {
+                "title": "Prof. Nakamura's Lecture Slides",
+                "url": "https://drive.google.com/file/d/1xSRIW-lLyAdHqAoxKHlDsIGsPA1b4a1h/view?usp=sharing"
+            },
+            {
+                "title": "Lecture Python Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec10%2Flec10.ipynb&branch=master"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 10 Attendance Quiz",
+                "dueDate": "Oct 26",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1628849/"
+            }
         ]
     },
     {
