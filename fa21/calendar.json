@@ -238,7 +238,7 @@
             },
             {
                 "title": "Project 3",
-                "dueDate": "Nov 8",
+                "dueDate": "Nov 8 (Extension granted till Nov 9)",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Fproject%2Fproj3%2Fproj03.ipynb&branch=master"
             }
         ]
@@ -294,8 +294,31 @@
         "date": "Tue, Nov 9",
         "title": "Lecture 11: Finance",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1ppMGU5OfsuI1siqwqoguvG3BvZsl-RKg0I2vIj8HNOo/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec11%2FFinance_Lec_Notebook+.ipynb&branch=master"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 11 Attendance Quiz",
+                "dueDate": "Nov 9",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1645681/"
+            },
+            {
+                "title": "Lab 9",
+                "dueDate": "Nov 15",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab09%2Flab09.ipynb&branch=master"
+            },
+            {
+                "title": "Project 4",
+                "dueDate": "Nov 29",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Fproject%2Fproj4%2Fproj04.ipynb&branch=master"
+            }
         ]
     },
     {
