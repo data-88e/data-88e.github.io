@@ -351,8 +351,33 @@
         "date": "Tue, Nov 23",
         "title": "Lecture 13: Environmental Economics",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1KZamTbP1aLSz4ico8DNFRturWzga7YqNBZgekwwFwhw/edit?usp=sharing"
+            },
+            {
+                "title": "Rosling Plots",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FRoslingPlots.ipynb&branch=master"
+            },
+            {
+                "title": "Kuznets Hypothesis",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FKuznetsHypothesis.ipynb&branch=master"
+            },
+            {
+                "title": "Constructing MAC",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FConstructingMAC.ipynb&branch=master"
+            },
+            {
+                "title": "Mariel Boatlift Project (Optional)",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa19&urlpath=tree%2Fecon-fa19%2Fwk11%2Fproj02.ipynb"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 13 Attendance Quiz",
+                "dueDate": "Nov 23",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1679484/"
+            }
         ]
     },
     {
