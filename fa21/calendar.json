@@ -9,11 +9,11 @@
             },
             {
                 "title": "Lecture 1 Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec01%2Flec01.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec01%2Flec01.ipynb&branch=master"
             },
             {
                 "title": "Co2 Lab for Evans 60",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec01%2FEVANS60_Class.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec01%2FEVANS60_Class.ipynb&branch=master"
             }
         ],
         "assignment": [
@@ -34,15 +34,15 @@
             },
             {
                 "title": "Building a Demand Curve",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fdemand-curve.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fdemand-curve.ipynb&branch=master"
             },
             {
                 "title": "Demand for Avocados",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fslides-pt2.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fslides-pt2.ipynb&branch=master"
             },
             {
                 "title": "Musk's effect on Dogecoin",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2FCausal_effect_of_Musk_on_Doge+.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2FCausal_effect_of_Musk_on_Doge+.ipynb&branch=master"
             }
         ],
         "assignment": [
@@ -54,12 +54,12 @@
             {
                 "title": "Lab 1",
                 "dueDate": "Sept 13",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab01%2Flab01.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flab%2Flab01%2Flab01.ipynb&branch=master"
             },
             {
                 "title": "Project 1",
                 "dueDate": "Sept 27",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Fproject%2Fproj1%2Fproj01.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Fproject%2Fproj1%2Fproj01.ipynb&branch=master"
             }
         ]
     },
@@ -73,11 +73,11 @@
             },
             {
                 "title": "Supply Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec03%2Flec03.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec03%2Flec03.ipynb&branch=master"
             },
             {
                 "title": "SymPy and Market Equilibrium Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec03%2Flec03-sympy.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec03%2Flec03-sympy.ipynb&branch=master"
             }
         ],
         "assignment": [
@@ -89,7 +89,7 @@
             {
                 "title": "Lab 2",
                 "dueDate": "Sept 20",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab02%2Flab02.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flab%2Flab02%2Flab02.ipynb&branch=master"
             }
         ]
     },
@@ -103,7 +103,7 @@
             },
             {
                 "title": "Demand Survey and Surplus",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flec%2Flec04%2FDemand_Survey_Surplus.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec04%2FDemand_Survey_Surplus.ipynb&branch=master"
             }
         ],
         "assignment": [
@@ -115,7 +115,7 @@
             {
                 "title": "Lab 3",
                 "dueDate": "Sept 27",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab03%2Flab03.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flab%2Flab03%2Flab03.ipynb&branch=master"
             }
         ]
     },
@@ -204,7 +204,7 @@
             {
                 "title": "Lab 6",
                 "dueDate": "Oct 18",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21&urlpath=tree%2F88e-fa21%2Flab%2Flab06%2Flab06.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab06%2Flab06.ipynb&branch=master"
             }
         ]
     },
