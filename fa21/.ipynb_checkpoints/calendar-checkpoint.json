@@ -1,0 +1,406 @@
+[
+    {
+        "date": "Tue, Aug 31",
+        "title": "Lecture 1: Introduction",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1-O4fZ0cZkKPajwP_6nzgQpzUBGj48_W3C52lOBxVS9o/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture 1 Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec01%2Flec01.ipynb&branch=master"
+            },
+            {
+                "title": "Co2 Lab for Evans 60",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec01%2FEVANS60_Class.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 1 Attendance Quiz",
+                "dueDate": "Aug 31",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1451258/"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Sept 7",
+        "title": "Lecture 2: Demand",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1gExdkmhso8zL9DgswYonUEam5R5vp3GhAPismpV5dyA/edit?usp=sharing"
+            },
+            {
+                "title": "Building a Demand Curve",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fdemand-curve.ipynb&branch=master"
+            },
+            {
+                "title": "Demand for Avocados",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2Fslides-pt2.ipynb&branch=master"
+            },
+            {
+                "title": "Musk's effect on Dogecoin",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec02%2FCausal_effect_of_Musk_on_Doge+.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 2 Attendance Quiz",
+                "dueDate": "Sep 7",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1470735/"
+            },
+            {
+                "title": "Lab 1",
+                "dueDate": "Sept 13",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flab%2Flab01%2Flab01.ipynb&branch=master"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Sept 27",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Fproject%2Fproj1%2Fproj01.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Sept 14",
+        "title": "Lecture 3: Supply",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1uXg8QtdFg_qTyOFKX2WGz-iy9i-hEG-AALWmtpEogAU/edit?usp=sharing"
+            },
+            {
+                "title": "Supply Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec03%2Flec03.ipynb&branch=master"
+            },
+            {
+                "title": "SymPy and Market Equilibrium Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec03%2Flec03-sympy.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 3 Attendance Quiz",
+                "dueDate": "Sep 14 (Extension granted till Sep 15)",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1489427/"
+            },
+            {
+                "title": "Lab 2",
+                "dueDate": "Sept 20",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flab%2Flab02%2Flab02.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Sept 21",
+        "title": "Lecture 4: Government Intervention",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1GPAuOwsLdEXoj9Yz0fMo17oaun66lSkiABlj96aCLrY/edit?usp=sharing"
+            },
+            {
+                "title": "Demand Survey and Surplus",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec04%2FDemand_Survey_Surplus.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 4 Attendance Quiz",
+                "dueDate": "Sep 21",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1512557/"
+            },
+            {
+                "title": "Lab 3",
+                "dueDate": "Sept 27",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flab%2Flab03%2Flab03.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Sept 28",
+        "title": "Lecture 5: Production",
+        "materials": [
+            {
+                "title": "Prof. Van Dusen's Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/10X_pE9gKsEsEw1Mvo6tuzLHmzUrurBi7suHA92U2e0U/edit?usp=sharing"
+            },
+            {
+                "title": "Prof. Hawkins' Lecture Slides",
+                "url": "https://drive.google.com/file/d/1DRFErGkkYRAxVlVOEy70fE60yjjxdDzC/view?usp=sharing"
+            },
+            {
+                "title": "Plotting Penn World Tables",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec05%2FCobb-Douglas-v4.ipynb&branch=master"
+            },
+            {
+                "title": "Textbook Chapter",
+                "url": "https://data-88e.github.io/textbook/content/04-production/shifts.html"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 5 Attendance Quiz",
+                "dueDate": "Sep 28",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1531733/"
+            },
+            {
+                "title": "Lab 4",
+                "dueDate": "Oct 4",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab04%2Flab04.ipynb&branch=master"
+            },
+            {
+                "title": "Project 2",
+                "dueDate": "Oct 18",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Fproject%2Fproj2%2Fproj02.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Oct 5",
+        "title": "Lecture 6: Utility",
+        "materials": [
+            {
+            "title": "Lecture Slides",
+            "url": "https://docs.google.com/presentation/d/1W36E6eUYo5zAOyv_uM94cYTRvi-ZDIogQgIkv_TuJEc/edit?usp=sharing"
+            },
+            {
+                "title": "LaTeX Guide",
+                "url": "https://math.hws.edu/gassert/LaTeX_Guide_Title.pdf"
+            },
+            {
+                "title": "Lab 5 Template",
+                "url": "https://raw.githubusercontent.com/data-88e/88e-fa21/9cadd8068870c1ccd6a6f050564298720987c3c2/lab/lab05/lab05-template.tex"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 6 Attendance Quiz",
+                "dueDate": "Oct 5",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1553560/"
+            },
+            {
+                "title": "Lab 5",
+                "dueDate": "Oct 11",
+                "url": "https://drive.google.com/file/d/14CPyhmKU5oIfhjuXWYpayBzNnFgGhbZr/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Oct 12",
+        "title": "Lecture 7: Inequality",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1utJYb6XQnARW0JynTKXrAjPVC7P-ZIFFbGSVFKL7ZYs/edit?usp=sharing"
+                }
+        ],
+        "assignment": [ 
+            {
+                "title": "Test 1"
+            },
+            {
+                "title": "Lab 6",
+                "dueDate": "Oct 18",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab06%2Flab06.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Oct 19",
+        "title": "Lecture 8: Game Theory",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1-3ByeNqpDx7KB5Rp0zqye4TYsY332MGCUA6CEop0xC0/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Lecture Slides",
+                "url": "https://drive.google.com/file/d/1DmI2LtunAZf1e4JApWv4p0IZAJFOJ6je/view?usp=sharing"
+            },
+            {
+                "title": "Iterated Prisoner's Dilemma",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec08%2Flec08.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 8 Attendance Quiz",
+                "dueDate": "Oct 19",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1586367/"
+            },
+            {
+                "title": "Lab 7",
+                "dueDate": "Oct 25 (Extension granted till Oct 26)",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab07%2Flab07.ipynb&branch=master"
+            },
+            {
+                "title": "Project 3",
+                "dueDate": "Nov 8 (Extension granted till Nov 9)",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Fproject%2Fproj3%2Fproj03.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Oct 26",
+        "title": "Lecture 9: Development",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1lktxhjotTAOQ_JFrvcy30YkuLrT8brADvOD3QQkI4tY/edit?usp=sharing"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 9 Attendance Quiz",
+                "dueDate": "Oct 26",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1609305/"
+            },
+            {
+                "title": "Lab 8",
+                "dueDate": "November 1",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab08%2Flab08.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Nov 2",
+        "title": "Lecture 10: Macroeconomic Policy",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1gsuyN8MrTANsLB9PrxDcpTOWmI0AvOvVvZtmPZnCbAE/edit?usp=sharing"
+            },
+            {
+                "title": "Prof. Nakamura's Lecture Slides",
+                "url": "https://drive.google.com/file/d/1xSRIW-lLyAdHqAoxKHlDsIGsPA1b4a1h/view?usp=sharing"
+            },
+            {
+                "title": "Lecture Python Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec10%2Flec10.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 10 Attendance Quiz",
+                "dueDate": "Oct 26",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1628849/"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Nov 9",
+        "title": "Lecture 11: Finance",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1ppMGU5OfsuI1siqwqoguvG3BvZsl-RKg0I2vIj8HNOo/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec11%2FFinance_Lec_Notebook+.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 11 Attendance Quiz",
+                "dueDate": "Nov 9",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1645681/"
+            },
+            {
+                "title": "Lab 9",
+                "dueDate": "Nov 15",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab09%2Flab09.ipynb&branch=master"
+            },
+            {
+                "title": "Project 4",
+                "dueDate": "Nov 29 (Extension granted till Dec 3)",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Fproject%2Fproj4%2Fproj04.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Nov 16",
+        "title": "Lecture 12: Econometrics",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1MO_3wrvBHt0F_CbDHYdK1uVfJwvsi_2casZ_vQIci_w/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec12%2FLecture+12+Notebook+%28Econometrics%29.ipynb&branch=master"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 12 Attendance Quiz",
+                "dueDate": "Nov 16",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1664110/"
+            },
+            {
+                "title": "Lab 10",
+                "dueDate": "Nov 22",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flab%2Flab10%2Flab10.ipynb&branch=master"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Nov 23",
+        "title": "Lecture 13: Environmental Economics",
+        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1KZamTbP1aLSz4ico8DNFRturWzga7YqNBZgekwwFwhw/edit?usp=sharing"
+            },
+            {
+                "title": "Rosling Plots",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FRoslingPlots.ipynb&branch=master"
+            },
+            {
+                "title": "Kuznets Hypothesis",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FKuznetsHypothesis.ipynb&branch=master"
+            },
+            {
+                "title": "Constructing MAC",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FConstructingMAC.ipynb&branch=master"
+            },
+            {
+                "title": "Mariel Boatlift Project (Optional)",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fecon-fa19&urlpath=tree%2Fecon-fa19%2Fwk11%2Fproj02.ipynb"
+            }
+        ],
+        "assignment": [
+            {
+                "title": "Lecture 13 Attendance Quiz",
+                "dueDate": "Nov 23",
+                "url": "https://www.gradescope.com/courses/273113/assignments/1679484/"
+            }
+        ]
+    },
+    {
+        "date": "Tue, Nov 30",
+        "title": "Lecture 14: Guest Lecture",
+        "materials": [
+            {
+                "title": "David Card Slides",
+                "url": "https://drive.google.com/file/d/1P7V4wTQRN0gE-HxBDugsVRQnM-FaWoUd/view?usp=sharing"
+            },
+            {
+                "title": "What's Next?",
+                "url": "https://docs.google.com/presentation/d/130uDVC5nqo4i6UWmd8f9_vEBWcvU45BcqplpAMDZdjg/edit?usp=sharing"
+            },
+            {
+                "title": "Data Science Education Podcast (Steven Levitt)",
+                "url": "https://datascienceeducation.substack.com/p/the-imperative-for-data-science-education"
+            }
+        ],
+        "assignment": [ 
+            {
+                "title": "Test 2"
+            }
+        ]
+    }
+]
