@@ -57,15 +57,7 @@
     },
     {
         "date": "Mon, Mar 14",
-        "title": "Lecture 7: Inequality",
-        "materials": [
-        ],
-        "assignment": [
-        ]
-    },
-    {
-        "date": "Mon, Mar 21",
-        "title": "Lecture 8: Game Theory",
+        "title": "Lecture 7: Game Theory",
         "materials": [
         ],
         "assignment": [
@@ -73,7 +65,7 @@
     },
     {
         "date": "Mon, Mar 28",
-        "title": "Lecture 9: Development",
+        "title": "Lecture 8: Development",
         "materials": [
         ],
         "assignment": [
@@ -81,7 +73,7 @@
     },
     {
         "date": "Mon, Apr 4",
-        "title": "Lecture 10: Macroeconomic Policy",
+        "title": "Lecture 9: Macroeconomic Policy",
         "materials": [
         ],
         "assignment": [
@@ -89,7 +81,7 @@
     },
     {
         "date": "Mon, Apr 11",
-        "title": "Lecture 11: Finance",
+        "title": "Lecture 10: Finance",
         "materials": [
         ],
         "assignment": [
@@ -97,7 +89,7 @@
     },
     {
         "date": "Mon, Apr 18",
-        "title": "Lecture 12: Econometrics",
+        "title": "Lecture 11: Econometrics",
         "materials": [
         ],
         "assignment": [
@@ -105,15 +97,15 @@
     },
     {
         "date": "Mon, Apr 25",
-        "title": "Lecture 13: Environmental Economics",
+        "title": "Lecture 12: Environmental Economics",
         "materials": [
         ],
         "assignment": [
         ]
     },
     {
-        "date": "TBD",
-        "title": "Lecture 14: Guest Lecture",
+        "date": "Mon, May 2",
+        "title": "Lecture 13: Inequality + Guest Lecture",
         "materials": [
         ],
         "assignment": [
