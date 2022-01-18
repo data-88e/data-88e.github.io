@@ -9,12 +9,6 @@
     ],
     "Course Staff": [
         {
-            "name": "Alan Liang",
-            "email": "alanliang@berkeley.edu",
-            "imgUrl": "assets/staff_pics/alan.jpg",
-            "blurb": "Hi! My name is Alan, and I currently live in NYC. I co-created this course two years ago and still am somewhat involved. Before starting work, I completed my undergrad and masters at Cal, majoring in Economics and CS. I’m sort of from Shanghai, and I've taught Data 8 & ECON 140 in the past. Some things I enjoy include discovering good food, traveling, economics, and data science; guess which one is my favorite ;’) Hope you enjoy the course!"
-        },
-        {
             "name": "Matthew Yep",
             "email": "mattyep@berkeley.edu",
             "imgUrl": "assets/staff_pics/matthew.jpg",
