@@ -36,15 +36,15 @@
             "name": "Vaidehi Bulusu",
             "email": "vaidehi-b@berkeley.edu",
             "imgUrl": "assets/staff_pics/vaidehi.jpeg",
-            "blurb": "Hi! I’m Vaidehi, a sophomore studying economics and data science. I really enjoyed taking DATA 88E last semester (in spring 2021) and hope you enjoy it as well! This semester, I’m looking forward to helping students as a Connector Assistant. Feel free to reach out to me about any doubts you have or tips for doing well in the class."
+            "blurb": "Hi! I’m Vaidehi, a sophomore studying economics and data science. I really enjoyed taking DATA 88E in spring 2021 and hope you enjoy it as well! This semester, I’m looking forward to helping students as a Connector Assistant. Feel free to reach out to me about any doubts you have or tips for doing well in the class."
         }
     ],
     "Connector Assistants": [
         {
             "name": "Bennett Sommerville",
             "email": "bdsomer@berkeley.edu",
-            "imgUrl": "Incoming",
-            "blurb": "Incoming"
+            "imgUrl": "assets/staff_pics/bennett.png",
+            "blurb": "Hi! I'm Bennett Somerville, a first year intending to major in cognitive science with a minor in computer science. I'm interested in applying data science to lots of areas of study, such as public policy, urban planning, and of course, economics. Outside of academics some of my hobbies include working on bikes, cycling, advocating for better urban planning, exploring the outdoors, and playing music (piano & t. sax, mostly jazz)."
         },
         {
             "name": "Cole Ginter",
