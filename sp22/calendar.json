@@ -3,6 +3,14 @@
         "date": "Mon, Jan 24",
         "title": "Lecture 1: Introduction",
         "materials": [
+            {
+            "title": "Lecture Slides",
+            "url": "https://docs.google.com/presentation/d/12VvUoJH2PgewYoMF09_xyc3tcIcE3UYgohj0faym7jY/edit?usp=sharing"
+            },
+            {
+            "title": "Lecture 1 Notebook",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student.git&urlpath=tree%2Fsp22-student.git%2Flec%2Flec01%2Flec01.ipynb&branch=master"
+            }
         ],
         "assignment": [
         ]
