@@ -19,8 +19,30 @@
         "date": "Mon, Jan 31",
         "title": "Lecture 2: Demand",
         "materials": [
+            {
+                "title": "Building a Demand Curve",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student.git&urlpath=tree%2Fsp22-student.git%2Flec%2Flec02%2Fdemand-curve.ipynb&branch=main"
+            },
+            {
+                "title": "Demand for Avocados",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student.git&urlpath=tree%2Fsp22-student.git%2Flec%2Flec02%2Fslides-pt2.ipynb&branch=main"
+            },
+            {
+                "title": "Musk's effect on Dogecoin",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student.git&urlpath=tree%2Fsp22-student.git%2Flec%2Flec02%2FCausal_effect_of_Musk_on_Doge.ipynb&branch=main"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lab 1",
+                "dueDate": "Feb 7",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student.git&urlpath=tree%2Fsp22-student.git%2Flab%2Flab01%2Flab01.ipynb&branch=main"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Feb 18",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student.git&urlpath=tree%2Fsp22-student.git%2Fproject%2Fproj1%2Fproj01.ipynb&branch=main"
+            }
         ]
     },
     {
