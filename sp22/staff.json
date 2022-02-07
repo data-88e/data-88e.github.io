@@ -81,6 +81,12 @@
             "email": "yiyangc@berkeley.edu",
             "imgUrl": "assets/staff_pics/yiyang.jpg",
             "blurb": "Hey! I'm Yiyang, and I am a third year studying Economics and Computer Science at Berkeley. In my free time, I enjoy playing video games, watching movies, and cooking. I'm really excited to meet you all this semester! Feel free to ask me any questions about the course and the majors!"
+        },
+        {
+            "name": "Suraj Kura",
+            "email": "suraj.kura@berkeley.edu",
+            "imgUrl": "assets/staff_pics/suraj.jpg",
+            "blurb": "Hey! My name is Suraj Kura and I’m a freshman from NJ using the he series planning on studying Economics with a minor in Data Science. Academically, I’m particularly interested in learning about the intersectionality between finance and technology. In my free time, you can find me dancing on UC Berkeley’s premier bollywood fusion team (UC Berkeley Azaad!), playing almost every sport, or watching T.V. shows! I hope that y’all enjoy the class!"
         }
     ]
 }
