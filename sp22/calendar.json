@@ -61,8 +61,30 @@
         "date": "Mon, Feb 7",
         "title": "Lecture 3: Supply",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1KEB6-cE560L2FIexZrD9feTBHAf_9dJ8dCH0VNCBSJM/edit?usp=sharing"
+            },
+            {
+                "title": "Supply Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flec%2Flec03%2Flec03.ipynb"
+            },
+            {
+                "title": "SymPy and Market Equilibrium Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flec%2Flec03%2Flec03-sympy.ipynb"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 3 Attendance Quiz",
+                "dueDate": "Feb 7",
+                "url": "https://www.gradescope.com/courses/357906/assignments/1838928/"
+            },
+            {
+                "title": "Lab 2",
+                "dueDate": "Feb 14",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flab%2Flab02%2Flab02.ipynb"
+            }
         ]
     },
     {
