@@ -91,8 +91,22 @@
         "date": "Mon, Feb 14",
         "title": "Lecture 4: Government Intervention + Inequality",
         "materials": [
+            {
+                "title": "Demand Survey and Surplus",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec04%2FDemand_Survey_Surplus.ipynb&branch=master"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 4 Attendance Quiz",
+                "dueDate": "Feb 14",
+                "url": "https://www.gradescope.com/courses/357906/assignments/1858659/"
+            },
+            {
+                "title": "Lab 3",
+                "dueDate": "Feb 28",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flab%2Flab03%2Flab03.ipynb"
+            }
         ]
     },
     {
