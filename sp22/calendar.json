@@ -92,8 +92,24 @@
         "title": "Lecture 4: Government Intervention + Inequality",
         "materials": [
             {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1dmHYGI-2vuoW4X56OEXUQIzde8Ad04-GwUb2MnCPZo4/edit?usp=sharing"
+            },
+            {
                 "title": "Demand Survey and Surplus",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21%2Flec%2Flec04%2FDemand_Survey_Surplus.ipynb&branch=master"
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flec%2Flec04%2FDemand_Survey_Surplus.ipynb"
+            },
+            {
+                "title": "Dollar Street",
+                "url": "https://www.gapminder.org/dollar-street"
+            },
+            {
+                "title": "Realtime Inequality",
+                "url": "https://realtimeinequality.org/"
+            },
+            {
+                "title": "World Inequality Database",
+                "url": "https://wid.world/world/#sptinc_p90p100_z/US;FR;DE;CN;ZA;GB;WO/last/eu/k/p/yearly/s/false/23.469/80/curve/false/country"
             }
         ],
         "assignment": [
