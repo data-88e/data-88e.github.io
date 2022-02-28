@@ -137,8 +137,35 @@
         "date": "Mon, Feb 28",
         "title": "Lecture 5: Production",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1GMYNwXSDFi7y615ORMMBWr-vQOUHpShuseSV1dWkbkE/edit?usp=sharing"
+            },
+            {
+                "title": "Plotting Penn World Tables",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flec%2Flec05%2FCobb-Douglas-v4.ipynb"
+            },
+            {
+                "title": "Textbook Chapter",
+                "url": "https://data-88e.github.io/textbook/content/04-production/shifts.html"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 5 Attendance Quiz",
+                "dueDate": "Sep 28",
+                "url": "https://www.gradescope.com/courses/357906/assignments/1897059/"
+            },
+            {
+                "title": "Lab 4",
+                "dueDate": "Oct 4",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flab%2Flab04%2Flab04.ipynb"
+            },
+            {
+                "title": "Project 2",
+                "dueDate": "Oct 18",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Fproject%2Fproj2%2Fproj02.ipynb"
+            }
         ]
     },
     {
