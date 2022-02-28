@@ -153,17 +153,17 @@
         "assignment": [
             {
                 "title": "Lecture 5 Attendance Quiz",
-                "dueDate": "Sep 28",
+                "dueDate": "Feb 28",
                 "url": "https://www.gradescope.com/courses/357906/assignments/1897059/"
             },
             {
                 "title": "Lab 4",
-                "dueDate": "Oct 4",
+                "dueDate": "Mar 4",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flab%2Flab04%2Flab04.ipynb"
             },
             {
                 "title": "Project 2",
-                "dueDate": "Oct 18",
+                "dueDate": "Mar 18",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Fproject%2Fproj2%2Fproj02.ipynb"
             }
         ]
