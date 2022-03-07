@@ -173,6 +173,14 @@
         "title": "Lecture 6: Utility",
         "materials": [
             {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1_J0DZjPQ7xtI9qpYsvMyqW69seqKZkgM2n5MwjVEsfg/edit?usp=sharing"
+            },
+            {
+                "title": "Openfisca US Tutorial",
+                "url": "https://colab.research.google.com/gist/MaxGhenis/f14b2395ceb828d22d0dc07df033246b/openfisca-us-tutorial.ipynb"
+            },
+            {
                 "title": "LaTeX Guide",
                 "url": "https://math.hws.edu/gassert/LaTeX_Guide_Title.pdf"
             },
