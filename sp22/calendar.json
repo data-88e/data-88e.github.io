@@ -172,8 +172,21 @@
         "date": "Mon, Mar 7",
         "title": "Lecture 6: Utility",
         "materials": [
+            {
+                "title": "LaTeX Guide",
+                "url": "https://math.hws.edu/gassert/LaTeX_Guide_Title.pdf"
+            },
+            {
+                "title": "Lab 5 Template",
+                "url": "https://raw.githubusercontent.com/data-88e/sp22-student/main/lab/lab05/lab05-template.tex"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lab 5",
+                "dueDate": "Mar 14",
+                "url": "https://drive.google.com/file/d/14CPyhmKU5oIfhjuXWYpayBzNnFgGhbZr/view?usp=sharing"
+            }
         ]
     },
     {
