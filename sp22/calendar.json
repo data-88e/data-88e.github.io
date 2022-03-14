@@ -201,8 +201,26 @@
         "date": "Mon, Mar 14",
         "title": "Lecture 7: Game Theory",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1oVZA-8hHHBLqngIySZfvdNfOm9lMBw8KBmFasA6cIXA/edit?usp=sharing"
+            },
+            {
+                "title": "Iterated Prisoner's Dilemma",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flec%2Flec07%2Flec07.ipynb"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 7 Attendance Quiz",
+                "dueDate": "Mar 14",
+                "url": "https://www.gradescope.com/courses/357906/assignments/1927487/"
+            },
+            {
+                "title": "Lab 6",
+                "dueDate": "Mar 28",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flab%2Flab06%2Flab06.ipynb"
+            }
         ]
     },
     {
