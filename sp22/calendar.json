@@ -326,8 +326,26 @@
         "date": "Mon, Apr 18",
         "title": "Lecture 11: Econometrics",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1LaEqsoCP6lblZF8d7lhmK5ldFCFW-4vp1msGmwr-Y74/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Flec%2Flec11%2Flec11.ipynb"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 11 Attendance Quiz",
+                "dueDate": "Apr 18",
+                "url": "https://www.gradescope.com/courses/357906/assignments/2006631/"
+            },
+            {
+                "title": "Project 4",
+                "dueDate": "Apr 29",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Fsp22-student&branch=main&urlpath=retro%2Ftree%2Fsp22-student%2Fproject%2Fproj4%2Fproj4.ipynb"
+            }
         ]
     },
     {
