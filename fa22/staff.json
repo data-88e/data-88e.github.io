@@ -1,0 +1,84 @@
+{
+    "Instructor": [
+        {
+            "name": "Eric Van Dusen",
+            "email": "ericvd@berkeley.edu",
+            "imgUrl": "assets/staff_pics/eric.jpeg",
+            "blurb": "Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring."
+        }
+    ],
+    "Course Staff": [
+        {
+            "name": "Matthew Yep",
+            "email": "mattyep@berkeley.edu",
+            "imgUrl": "assets/staff_pics/matthew.jpg",
+            "blurb": "Hey my name is Matthew. I’m a fourth year studying economics and data science, and my hope is to apply what I’ve learned at Cal in the field of basketball analytics. I like to go fishing, watch the NBA, and feed ducks."
+        },
+        {
+            "name": "Rohan Jha",
+            "email": "rohan.jha@berkeley.edu",
+            "imgUrl": "assets/staff_pics/rohan.png",
+            "blurb": "Hey everyone! I'm an undergrad double majoring in economics and data science at Cal. In my free time, I like hiking the Berkeley hills (shout out to anyone who's seen a sunset from the MSRI) and hanging out in my co-op! I'm looking forward to meeting everyone this semester!"
+        },
+        {
+            "name": "Ergun Acikoz",
+            "email": "ergunackz@berkeley.edu",
+            "imgUrl": "assets/staff_pics/ergun.jpg",
+            "blurb": "Hi! I’m Ergün from Istanbul, Turkey. I’m a sophomore studying Computer Science & Operations Research. I love traveling and trying new cuisines all around the world. I used to want to major in Geography so if you are interested in geography, hit me up  : ) Other than that, I love hiking and I do want to explore Bay Area more - any suggestion is appreciated."
+        },
+        {
+            "name": "Sreeja Apparaju",
+            "email": "sreeja.apparaju@berkeley.edu",
+            "imgUrl": "assets/staff_pics/sreeja.png",
+            "blurb": "Hello! My name is Sreeja and I’m a junior studying Economics and Computer Science. I enjoy caffeinated drinks, board games and anything to do with food. I am really excited meet y’all this semester! (Please don’t forget to wear your face masks and stay safe!)"
+        },
+        {
+            "name": "Vaidehi Bulusu",
+            "email": "vaidehi-b@berkeley.edu",
+            "imgUrl": "assets/staff_pics/vaidehi.jpeg",
+            "blurb": "Hi! I’m Vaidehi, a sophomore studying economics and data science. I really enjoyed taking DATA 88E in spring 2021 and hope you enjoy it as well! This semester, I’m looking forward to helping students as a Connector Assistant. Feel free to reach out to me about any doubts you have or tips for doing well in the class."
+        },
+        {
+            "name": "Bennett Somerville",
+            "email": "bdsomer@berkeley.edu",
+            "imgUrl": "assets/staff_pics/bennett.png",
+            "blurb": "Hi! I'm Bennett Somerville, a first year intending to major in cognitive science with a minor in computer science. I'm interested in applying data science to lots of areas of study, such as public policy, urban planning, and of course, economics. Outside of academics some of my hobbies include working on bikes, cycling, advocating for better urban planning, exploring the outdoors, and playing music (piano & t. sax, mostly jazz)."
+        },
+        {
+            "name": "Cole Ginter",
+            "email": "cole_ginter@berkeley.edu",
+            "imgUrl": "assets/staff_pics/cole.png",
+            "blurb": "Hi! My name is Cole. I am a junior studying Political Science and Economics. Academically I have a strong interest in microeconomic theory and political polarization. In my free time I love to travel, watch movies, and hike. I can’t wait to meet y’all this semester!"
+        },
+        {
+            "name": "Hector Juarez-Vargas",
+            "email": "hectorvjuarez1@berkeley.edu",
+            "imgUrl": "assets/staff_pics/hector.png",
+            "blurb": "Hey y'all! I'm Hector, a fourth year studying Data Science with a domain emphasis on Social Welfare, Health, and Poverty. In my free time I grow sunflowers, collect Pokemon cards, and lose it all in the stock market. I took Data88E in Spring 21, so feel free to ask any questions about the course; see y'all in office hours!"
+        },
+        {
+            "name": "Miranda Li",
+            "email": "mirandalzh@berkeley.edu",
+            "imgUrl": "assets/staff_pics/miranda.jpg",
+            "blurb": "Hi! My name is Miranda. I’m a senior majoring in economics and data science. In my free time, I enjoy snowboarding and hiking. Feel free to ask me any questions about the course. Looking forward to meeting y’all this semester!"
+        },
+        {
+            "name": "Peter Flo Grinde-Hollevik",
+            "email": "hollevik@berkeley.edu",
+            "imgUrl": "assets/staff_pics/peter.jpg",
+            "blurb": "Hi! I'm Peter, a 2nd year double-majoring in Data Science and Environmental Economics and Policy. I'm passionate about finding new solution for a more sustainable future, and try spending my free time hiking or reading random books as often as I can."
+        },
+        {
+            "name": "Isabella Siu",
+            "email": "isiu@berkeley.edu",
+            "imgUrl": "assets/staff_pics/isabella.jpg",
+            "blurb": "Hey! I’m Isabella and I’m a second year pursuing Data Science with an emphasis on Economics. Outside of class, I enjoy taking photos for the Blue & Gold Yearbook and playing the piano. Feel free to ask me about the CS, Economics, and Data Science majors at Cal!"
+        },
+        {
+            "name": "Yiyang Chen",
+            "email": "yiyangc@berkeley.edu",
+            "imgUrl": "assets/staff_pics/yiyang.jpg",
+            "blurb": "Hey! I'm Yiyang, and I am a third year studying Economics and Computer Science at Berkeley. In my free time, I enjoy playing video games, watching movies, and cooking. I'm really excited to meet you all this semester! Feel free to ask me any questions about the course and the majors!"
+        }
+    ]
+}
