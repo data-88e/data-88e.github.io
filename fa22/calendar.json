@@ -3,6 +3,14 @@
         "date": "Tue, Aug 30",
         "title": "Lecture 1: Introduction",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1x2HXPMA6TDQbtExL_gDgxyyUlcyrd4zTwNv64OcDZss/edit?usp=sharing"
+                },
+                {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Flec%2Flec01%2Flec01.ipynb"
+                }
         ],
         "assignment": [
         ]
