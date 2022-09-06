@@ -30,6 +30,14 @@
             {
                 "title": "Lecture 2 - Part 2 RISE Notebook",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec02%2Fslides-pt2.ipynb"
+            }, 
+            {
+                "title": "In-class Demand Survey",
+                "url": "https://tinyurl.com/data88e-demand-curve"
+            }, 
+            {
+                "title": "Demand for Beer Demo Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec02%2FDemand_BEERS.ipynb"
             }
         ],
         "assignment": [
