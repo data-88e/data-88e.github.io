@@ -19,8 +19,26 @@
         "date": "Tue, Sep 6",
         "title": "Lecture 2: Demand",
         "materials": [
+            {
+                "title": "Building a Demand Curve",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec02%2Fdemand-curve.ipynb"
+            },
+            {
+                "title": "Lecture 2 - Part 2 RISE Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec02%2Fslides-pt2.ipynb"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lab 1",
+                "dueDate": "Sep 12",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flab%2Flab01%2Flab01.ipynb"
+            },
+            {
+                "title": "Project 1",
+                "dueDate": "Sep 26",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Fproj%2Fproj01%2Fproj01.ipynb"
+            }
         ]
     },
     {
