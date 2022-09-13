@@ -36,7 +36,7 @@
                 "url": "https://tinyurl.com/data88e-demand-curve"
             }, 
             {
-                "title": "Demand for Beer Demo Notebook",
+                "title": "Demo: Demand for Beer",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec02%2FDemand_BEERS.ipynb"
             }
         ],
@@ -57,8 +57,29 @@
         "date": "Tue, Sep 13",
         "title": "Lecture 3: Supply",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1RYCYBAfixcrP13XfU1Iok1UskHWSd5vi5qjm7UDuA08/edit?usp=sharing"
+            }, 
+            {
+                "title": "Supply Curves",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec03%2Flec03.ipynb"
+            },
+            {
+                "title": "Sympy and Market Equilibrium",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec03%2Flec03-sympy.ipynb"
+            }, 
+            {
+                "title": "Demo: A Really Hot Tusday",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flec%2Flec03%2Fdemo-A+Really+Hot+Tuesday.ipynb"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lab 2",
+                "dueDate": "Sep 19",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flab%2Flab02%2Flab02.ipynb"
+            }
         ]
     },
     {
