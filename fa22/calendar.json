@@ -147,8 +147,34 @@
         "date": "Tue, Oct 4",
         "title": "Lecture 6: Utility",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1HggksbiHzIq2sFbwRnkPIh9UL9acldWHE6HRgQVROFA/edit?usp=sharing"
+            },
+            {
+                "title": "Consumer Choice Optimization from QuantEcon",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/QuantEcon/lecture-datascience.notebooks&branch=main&urlpath=tree/lecture-datascience.notebooks/scientific/optimization.ipynb"
+            },
+            {
+                "title": "LaTeX Guide",
+                "url": "https://math.hws.edu/gassert/LaTeX_Guide_Title.pdf"
+            },
+            {
+                "title": "Lab 5 Template",
+                "url": "https://raw.githubusercontent.com/data-88e/fa22-student/main/lab/lab05/lab05-template.tex"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 6 Attendance Quiz",
+                "dueDate": "Oct 4",
+                "url": "https://www.gradescope.com/courses/419567/assignments/2321266"
+            },
+            {
+                "title": "Lab 5",
+                "dueDate": "Oct 10",
+                "url": "https://drive.google.com/file/d/1_euuHOw9B5j217pQds84J-ho9IT8h6ko/view?usp=sharing"
+            }
         ]
     },
     {
