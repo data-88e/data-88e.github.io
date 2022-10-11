@@ -181,8 +181,26 @@
         "date": "Tue, Oct 11",
         "title": "Lecture 7: Inequality",
         "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1pPEML2jrJpUx7q9AEX6lwFrxeCpmfSkRdZ7l-WpoqhI/edit?usp=sharing"
+            }, 
+            {
+                "title": "Lecture-Related Textbook Chapter",
+                "url": "https://data-88e.github.io/textbook/content/06-inequality/historical-inequality.html"
+            }
         ],
         "assignment": [
+            {
+                "title": "Lecture 7 Attendance Quiz",
+                "dueDate": "Oct 11",
+                "url": "https://www.gradescope.com/courses/419567/assignments/2335785"
+            },
+            {
+                "title": "Lab 6",
+                "dueDate": "Oct 17",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Flab%2Flab06%2Flab06.ipynb"
+            }
         ]
     },
     {
