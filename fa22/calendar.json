@@ -209,7 +209,7 @@
         "materials": [
             {
                 "title": "Lecture Slides",
-                "url": ""
+                "url": "https://docs.google.com/presentation/d/1VHV4hpGGnnFN8Wq3xVS9L-2c8BempqMYml76KJDWrLU/edit?usp=sharing"
             }, 
             {
                 "title": "Lecture-Related Textbook Chapter",
@@ -223,18 +223,18 @@
         "assignment": [
             {
                 "title": "Lecture 8 Attendance Quiz",
-                "dueDate": "Oct 11",
+                "dueDate": "Oct 18",
                 "url": "https://www.gradescope.com/courses/419567/assignments/2360280"
             },
             {
                 "title": "Lab 7",
-                "dueDate": "Oct 17",
+                "dueDate": "Oct 24",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=tree%2Ffa22-student%2Flab%2Flab07%2Flab07.ipynb"
             },
             {
                 "title": "Project 3",
-                "dueDate": "Oct 17",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Fproject%2Fproj3%2Fproj03.ipynb"
+                "dueDate": "Nov 14",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Fproj%2Fproj03%2Fproj03.ipynb"
             }
         ]
     },
