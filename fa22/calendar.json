@@ -210,14 +210,6 @@
             {
                 "title": "Lecture Slides",
                 "url": "https://docs.google.com/presentation/d/1VHV4hpGGnnFN8Wq3xVS9L-2c8BempqMYml76KJDWrLU/edit?usp=sharing"
-            }, 
-            {
-                "title": "Lecture-Related Textbook Chapter",
-                "url": "https://data-88e.github.io/textbook/content/08-development/index.html"
-            },
-            {
-                "title": "Lecture Notebook",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&urlpath=retro%2Ftree%2Ffa22-student%2Flec%2Flec08%2FDevelopmental+Economics.ipynb&branch=main"
             }
         ],
         "assignment": [
