@@ -347,17 +347,37 @@
         ]
     },
     {
-        "date": "Tue, Nov 22",
+        "date": "Tue, Nov 29",
         "title": "Lecture 13: Environmental Economics",
         "materials": [
-        ],
-        "assignment": [
-        ]
-    },
-    {
-        "date": "Tue, Nov 29",
-        "title": "Lecture 14: Guest Lecture",
-        "materials": [
+            {
+                "title": "Lecture Slides",
+                "url": "https://docs.google.com/presentation/d/1Ojm08fuvryNuj0w4f0hQsqLUabWNY654qIrwbGMTC6U/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&branch=drafts&urlpath=retro%2Ftree%2FDATA88-SP22%2Fd88_env_lec%2Flecture5.ipynb"
+            },
+            {
+                "title": "Demo: Kuznets Curve",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FKuznetsHypothesis.ipynb&branch=master"
+            },
+            {
+                "title": "Demo: Rosling Plot",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FRoslingPlots.ipynb&branch=master"
+            },
+            {
+                "title": "Demo: MAC for Methane",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2F88e-fa21.git&urlpath=tree%2F88e-fa21.git%2Flec%2Flec13%2FConstructingMAC.ipynb&branch=master"
+            },
+            {
+                "title": "Demo: Climate Trace API Notebook",
+                "url": "http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22.git&urlpath=tree%2FDATA88-SP22.git%2Flecture4notes%2Ftraceapidemo.ipynb&branch=drafts"
+            },
+            {
+                "title": "Zoom Link",
+                "url": "https://berkeley.zoom.us/j/91336700079?pwd=b2ZUdFJhd2EzN2pLRjhNTjBRdGVsdz09"
+            }
         ],
         "assignment": [
         ]
