@@ -1,0 +1,226 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/fa23/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/fa23/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "/fa23/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Home / Calendar",
+    "title": "Data 88E: Economic Models",
+    "content": "UC Berkeley, Fall 2023 . Eric Van Dusen . ericvd@berkeley.edu . Office Hours TBD . This website is still under construction and is subject to change. ",
+    "url": "/fa23/#data-88e-economic-models",
+    
+    "relUrl": "/#data-88e-economic-models"
+  },"4": {
+    "doc": "Home / Calendar",
+    "title": "Week 1",
+    "content": "Aug 1 Lecture 1 Introduction ",
+    "url": "/fa23/#week-1",
+    
+    "relUrl": "/#week-1"
+  },"5": {
+    "doc": "Home / Calendar",
+    "title": "Week 2",
+    "content": "Aug 2 Lecture 2 Demand Lab 1 Demand (due Aug 5) Project 2 Airbnb (due Aug 10) ",
+    "url": "/fa23/#week-2",
+    
+    "relUrl": "/#week-2"
+  },"6": {
+    "doc": "Home / Calendar",
+    "title": "Home / Calendar",
+    "content": " ",
+    "url": "/fa23/",
+    
+    "relUrl": "/"
+  },"7": {
+    "doc": "Lecture 1 – Introduction",
+    "title": "Lecture 1 – Introduction",
+    "content": "Presented by Eric Van Dusen . | slides | . ",
+    "url": "/fa23/lecture/lec01/",
+    
+    "relUrl": "/lecture/lec01/"
+  },"8": {
+    "doc": "Policies",
+    "title": "Policies",
+    "content": " ",
+    "url": "/fa23/policies/",
+    
+    "relUrl": "/policies/"
+  },"9": {
+    "doc": "Policies",
+    "title": "Table of contents",
+    "content": ". | Course Description | Course Objectives | Prerequisites | Support | Office Hours | Labs | Attendance and Participation | Grades | Extensions | Late Policy &amp; Regrades | Learning Cooperatively | Academic Honesty | . ",
+    "url": "/fa23/policies/#table-of-contents",
+    
+    "relUrl": "/policies/#table-of-contents"
+  },"10": {
+    "doc": "Policies",
+    "title": "Course Description",
+    "content": "The idea for the class is to take students through a series of exercises to motivate and illustrate key concepts in economics using empirical data and data science techniques. The class will cover concepts from Introductory Economics, Microeconomic Theory, Econometrics, Development Economics, Macroeconomics, and Public Economics. The course will give data science students a pathway to apply Python programming and data science concepts within the discipline of economics. The course will also give economics students a pathway to apply programming to reinforce fundamental concepts and to advance the level of study in upper division coursework, research, and possible thesis work. ",
+    "url": "/fa23/policies/#course-description",
+    
+    "relUrl": "/policies/#course-description"
+  },"11": {
+    "doc": "Policies",
+    "title": "Course Objectives",
+    "content": ". | Examine economics concepts through real-world data using data science methods | Showcase applications from topics in the fields of economics | Motivate basics of econometrics from a data science perspective | Prepare students for upper division economics coursework and research with technical skills such as LaTeX, APIs, empirical analysis, and more | . ",
+    "url": "/fa23/policies/#course-objectives",
+    
+    "relUrl": "/policies/#course-objectives"
+  },"12": {
+    "doc": "Policies",
+    "title": "Prerequisites",
+    "content": "You must have taken Data 8 or be currently enrolled in Data 8 to take this course. That being said, we are able to make exceptions if you have prior Python programming or data science experience; please make a private Ed post if you have any questions. Prior economics knowledge may be helpful but is not necessary. ",
+    "url": "/fa23/policies/#prerequisites",
+    
+    "relUrl": "/policies/#prerequisites"
+  },"13": {
+    "doc": "Policies",
+    "title": "Support",
+    "content": "You are not alone in this course; the staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. Using Ed is highly encouraged and the course staff will also hold office hours for in-person discussions. ",
+    "url": "/fa23/policies/#support",
+    
+    "relUrl": "/policies/#support"
+  },"14": {
+    "doc": "Policies",
+    "title": "Office Hours",
+    "content": "The professor and course staff will hold office hours. See the schedule and Ed for more information. You are welcome to show up to any and all office hours. ",
+    "url": "/fa23/policies/#office-hours",
+    
+    "relUrl": "/policies/#office-hours"
+  },"15": {
+    "doc": "Policies",
+    "title": "Labs",
+    "content": "The weekly sessions will consist generally of two portions: a lecture-based portion in which the concepts of the week are laid out, and a lab-based portion in which the concepts are applied in a small-group setting. We do not expect you to complete the lab in class; you are responsible for the completion of the lab in your own time and will take the place of homework assignments. Unlike Data 8, labs will be graded on accuracy and not just completion. ",
+    "url": "/fa23/policies/#labs",
+    
+    "relUrl": "/policies/#labs"
+  },"16": {
+    "doc": "Policies",
+    "title": "Attendance and Participation",
+    "content": "The class will be run as much like a seminar as a regular class. Your participation is necessary to make this work. We will be expecting you to discuss during class, participate on Ed, and come to Office Hours. We need your feedback on our materials in order to improve them. Attendance will be factored into your grade. More information on tracking attendance will be coming during lecture. ",
+    "url": "/fa23/policies/#attendance-and-participation",
+    
+    "relUrl": "/policies/#attendance-and-participation"
+  },"17": {
+    "doc": "Policies",
+    "title": "Grades",
+    "content": "Grades will be assigned using the following weighted components: . | 20% Attendance | 40% Labs | 40% Projects | . Labs are due by Monday 11:59 PM the week after they are released. There are 10 labs and 4 projects. Labs, projects and attendances are weighted equally in their categories. You will have 1 lab drop and 2 attendance drops to be used at any time throughout the semester. ",
+    "url": "/fa23/policies/#grades",
+    
+    "relUrl": "/policies/#grades"
+  },"18": {
+    "doc": "Policies",
+    "title": "Extensions",
+    "content": "If there are extenuating circumstances that necessitate an extension, please make a private Ed post saying why you want the extension as well as how much extra time you require. We shall get back to you as soon as possible. Extensions will only be granted for special circumstances beyond your control. Please submit any extension requests before the assignment deadline. We will not approve extensions requested after the deadline for the assignment has passed. Also, because extensions are not guaranteed, it is in your best interest to submit at least 36 hours before the deadline, to ensure that there’s plenty of time for you to attempt the assignment if your request isn’t accepted. Making a private Ed post with an extension request does not guarantee you an extension. All extension requests must be approved for them to apply. If you are a late-add, please make a private Ed post to request an extension for Lab 1 so that we have a record. ",
+    "url": "/fa23/policies/#extensions",
+    
+    "relUrl": "/policies/#extensions"
+  },"19": {
+    "doc": "Policies",
+    "title": "Late Policy &amp; Regrades",
+    "content": "Students are allowed to submit labs and projects late for a 50% penalty until the Wednesday after they are due at 11:59 PM, after which they will receive no credit. We will factor in late submissions when we’re calculating grades at the end of the semester. When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed outside of the designated regrade window will not be entertained. ",
+    "url": "/fa23/policies/#late-policy--regrades",
+    
+    "relUrl": "/policies/#late-policy--regrades"
+  },"20": {
+    "doc": "Policies",
+    "title": "Learning Cooperatively",
+    "content": "We encourage you to discuss course content with your friends and classmates as you are working on your weekly assignments. No matter what your academic background is, you will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally. ",
+    "url": "/fa23/policies/#learning-cooperatively",
+    
+    "relUrl": "/policies/#learning-cooperatively"
+  },"21": {
+    "doc": "Policies",
+    "title": "Academic Honesty",
+    "content": "You must write your answers in your own words, and you must not plagiarize your completed work. Make a serious attempt at every assignment yourself. If you get stuck, read the supporting code and lab discussion. After that, go ahead and discuss any remaining doubts with others, especially the course staff. That way you will get the most out of the course content. You are also not permitted to turn in answers or code that you have obtained from others. Not only is such copying dishonest, it misses the point of the assignments, which is not for you to find the answers somewhere and send them along to the staff. It is for you to figure out how to solve the problems, with the support available in the course. Please read Berkeley’s Code of Conduct carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the Center for Student Conduct. They might also include a F in the course or even dismissal from the university. It’s just not worth it. Go on Ed and discuss with other students or the CAs. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. ",
+    "url": "/fa23/policies/#academic-honesty",
+    
+    "relUrl": "/policies/#academic-honesty"
+  },"22": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/fa23/schedule/#weekly-schedule",
+    
+    "relUrl": "/schedule/#weekly-schedule"
+  },"23": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/fa23/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"24": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/fa23/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"25": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/fa23/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"26": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/fa23/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"27": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "/fa23/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"28": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/fa23/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"29": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/fa23/staff/",
+    
+    "relUrl": "/staff/"
+  },"30": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Eric Van Dusen . ericvd@berkeley.edu . Office Hours TBD . ",
+    "url": "/fa23/staff/#instructors",
+    
+    "relUrl": "/staff/#instructors"
+  },"31": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Akhil Venkatesh . akhil.v@berkeley.edu . Hey everyone! I’m a junior double majoring in Data Science and Economics. If you like binging Kitchen Nightmares or other Gordon Ramsay shows, then I like you! I enjoy playing chess, tennis, and eating a ton of pizza in my spare time. Professionally, my interests lie in entrepreneurship, machine learning, and behavioral economics. I’m always looking to serve you all in the best way possible as I sincerely enjoyed taking this course. Looking forward to getting to know you at my office hours! . Bennett Somerville . bdsomer@berkeley.edu . I’m a rising third-year undergraduate student majoring in computer science, and I’m interested in applying data science to lots of areas of study, such as public policy, urban planning, and of course, economics. Outside of academics, I enjoy cycling, repairing bikes, playing music, and learning languages, among other things. Feel free to reach out! . ",
+    "url": "/fa23/staff/#teaching-assistants",
+    
+    "relUrl": "/staff/#teaching-assistants"
+  }
+}
