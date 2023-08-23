@@ -17,7 +17,7 @@ issues surrounding data analysis such as privacy and design.
 
 -->
 
-The course is offered in partnership with the [Berkeley Division of Data Sciences](http://data.berkeley.edu). 
+The course is offered in partnership with the [Data Science Undergraduate Studies, College of Computing, Data Science, and Society](http://data.berkeley.edu). 
 
 ## Offerings
 
