@@ -1,4 +1,4 @@
-Data 88E - Economic Models 
+Data 88E - Economic Models  ![Data 88e Logo](assets/images/blue_text.png)
 ========
 
 Description
