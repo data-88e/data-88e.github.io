@@ -61,5 +61,5 @@ We are always interested to know about other educators who are innovating in thi
 
 A few colleagues that we would love to highlight are
  - [QuantEcon Project](https://quantecon.org/)
- - [Testu Haruyama at U Kobe](https://t-haruyama.github.io/) [Python Econometrics](https://py4etrics.github.io/)
- - [National University of Singapore](https://www.stat.nus.edu.sg/prospective-students/undergraduate-programme/data-science-and-economics/)
+ - [Testu Haruyama at U Kobe](https://t-haruyama.github.io/) &  [Python Econometrics](https://py4etrics.github.io/)
+ - [National University of Singapore](https://www.stat.nus.edu.sg/prospective-students/undergraduate-programme/data-science-and-economics/) - Data Science and Economics Major 
