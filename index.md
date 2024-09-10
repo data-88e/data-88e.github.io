@@ -34,6 +34,8 @@ Students work with Python in Jupyter Notebooks to explore economic concepts such
 
 In addition, the course has been particularly valuable for data science students looking to apply their programming skills in economics and for economics students who want to reinforce their learning with computational tools, potentially aiding in advanced coursework and thesis preparation.
 
+This course is intented for lower-division students and as of 2024 is offered in the Fall.  If you are interested in our upper division course that grew out of this course in 2022 in parthership with the Economics Department , please check out [Economics 148](https://econ148.org), which is currently offered in Spring Semester.  
+
 Python Packages : Datascience and Otter-Grader
 ---
 As a connector course to the main Data 8 course, Data 88E labs mostly use a specific Python package developed at UC Berkeley for teaching. This package is known as `datascience tables`.  Furthermore the notebooks also make extensive use of a Python package for automatic grading called `otter-grader`. Both packages are available from pypi using `pip install XXX` .
@@ -49,3 +51,15 @@ edX Course
 ---
 We are proud to announce that Data 88E, is now offered on edX, divided up into three segments. There are a professionally produced set of videos, a guide through the material with online quizzes and a set of labs.  
 [Data 88E on edX](https://www.edx.org/learn/economics/university-of-california-berkeley-fundamentals-of-economics).
+
+
+External to UC Berkeley 
+---
+If you are external to UC Berkeley,  some of the links on this website may lead to UC Berkeley only material requiring authentication.  You should be able to find the lectures slides, and textbook from the website.  The lecture notebooks, labs and projects should be findable on Github - where you can download them and open either locall, or e.d via Google Colab.  Unfortunately the videos are not shareable at this time, but a series of videos can be found at the EdX course.  If you are an educator we make many resources available around sharing the Data 8 material.  
+
+We are always interested to know about other educators who are innovating in this space! Please reach out if you are teaching in this space, interested to collaborate, have questions about the material.   
+
+A few colleagues that we would love to highlight are
+ - [QuantEcon Project](https://quantecon.org/)
+ - [Testu Haruyama at U Kobe](https://t-haruyama.github.io/) [Python Econometrics](https://py4etrics.github.io/)
+ - [National University of Singapore](https://www.stat.nus.edu.sg/prospective-students/undergraduate-programme/data-science-and-economics/)
