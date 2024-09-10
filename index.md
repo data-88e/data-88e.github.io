@@ -34,6 +34,12 @@ Students work with Python in Jupyter Notebooks to explore economic concepts such
 
 In addition, the course has been particularly valuable for data science students looking to apply their programming skills in economics and for economics students who want to reinforce their learning with computational tools, potentially aiding in advanced coursework and thesis preparation.
 
+Python Packages : Datascience and Otter-Grader
+---
+As a connector course to the main Data 8 course, Data 88E labs mostly use a specific Python package developed at UC Berkeley for teaching. This package is known as `datascience tables`.  Furthermore the notebooks also make extensive use of a Python package for automatic grading called `otter-grader`. Both packages are available from pypi using `pip install XXX` .
+ - [datascience](https://www.data8.org/fa24/reference/#detailed-python-reference)
+ - [otter-grader](https://otter-grader.readthedocs.io/en/latest/)
+
 
 GitHub Repository
 ---
