@@ -37,8 +37,7 @@ In addition, the course has been particularly valuable for data science students
 
 GitHub Repository
 ---
-The official GitHub repository for Data 88E contains the course materials, Jupyter notebooks, and other resources used in the course. All of the labs and projects can be found here, as well as the source material for the textbook. 
-[Data 88E GitHub Repository]​(https://github.com/data-88e).
+The official GitHub repository for Data 88E contains the course materials, Jupyter notebooks, and other resources used in the course. All of the labs and projects can be found here, as well as the source material for the textbook. [Data 88E GitHub Repository](https://github.com/data-88e).
 
 edX Course
 ---
