@@ -55,7 +55,7 @@ We are proud to announce that Data 88E, is now offered on edX, divided up into t
 
 External to UC Berkeley 
 ---
-If you are external to UC Berkeley,  some of the links on this website may lead to UC Berkeley only material requiring authentication.  You should be able to find the lectures slides, and textbook from the website.  The lecture notebooks, labs and projects should be findable on Github - where you can download them and open either locall, or e.d via Google Colab.  Unfortunately the videos are not shareable at this time, but a series of videos can be found at the EdX course.  If you are an educator we make many resources available around sharing the Data 8 material.  
+If you are external to UC Berkeley,  some of the links on this website may lead to UC Berkeley only material requiring authentication.  You should be able to find the lectures slides, and textbook from the website.  The lecture notebooks, labs and projects should be findable on Github - where you can download them and open either locall, or e.g. via Google Colab.  Unfortunately the videos are not shareable at this time, but a series of videos can be found at the EdX course.  If you are an educator we make many resources available around sharing the Data 8 material [Zero to Data 8](https://www.data8.org/zero-to-data-8/connectors_modules.html).  
 
 We are always interested to know about other educators who are innovating in this space! Please reach out if you are teaching in this space, interested to collaborate, have questions about the material [Github Discussions](https://github.com/orgs/data-88e/discussions/new).   
 
