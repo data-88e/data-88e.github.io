@@ -57,7 +57,7 @@ External to UC Berkeley
 ---
 If you are external to UC Berkeley,  some of the links on this website may lead to UC Berkeley only material requiring authentication.  You should be able to find the lectures slides, and textbook from the website.  The lecture notebooks, labs and projects should be findable on Github - where you can download them and open either locall, or e.d via Google Colab.  Unfortunately the videos are not shareable at this time, but a series of videos can be found at the EdX course.  If you are an educator we make many resources available around sharing the Data 8 material.  
 
-We are always interested to know about other educators who are innovating in this space! Please reach out if you are teaching in this space, interested to collaborate, have questions about the material.   
+We are always interested to know about other educators who are innovating in this space! Please reach out if you are teaching in this space, interested to collaborate, have questions about the material [Github Discussions](https://github.com/orgs/data-88e/discussions/new).   
 
 A few colleagues that we would love to highlight are
  - [QuantEcon Project](https://quantecon.org/)
