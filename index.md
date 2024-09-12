@@ -34,7 +34,7 @@ Students work with Python in Jupyter Notebooks to explore economic concepts such
 
 In addition, the course has been particularly valuable for data science students looking to apply their programming skills in economics and for economics students who want to reinforce their learning with computational tools, potentially aiding in advanced coursework and thesis preparation.
 
-This course is intented for lower-division students and as of 2024 is offered in the Fall.  If you are interested in our upper division course that grew out of this course in 2022 in parthership with the Economics Department , please check out [Economics 148](https://econ148.org), which is currently offered in Spring Semester.  
+This course is intented for lower-division students and as of 2024 is offered in the Fall.  If you are interested in our upper division course that grew out of this course in 2022 in partnership with the Economics Department , please check out [Economics 148](https://econ148.org), which is currently offered in Spring Semester.  
 
 Python Packages : Datascience and Otter-Grader
 ---
