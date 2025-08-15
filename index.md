@@ -15,6 +15,7 @@ UC Berkeley Data 88E: Econonomic Models aims to motivate and illustrate key conc
 ## Offerings
 
 Each offering includes links to assignments, slides, and readings. You are welcome to use any of the materials you find.
+*   [Fall 2025](fa25)
 *   [Fall 2024](fa24)
 *   [Fall 2023](fa23)
 *   [Fall 2022](fa22)
