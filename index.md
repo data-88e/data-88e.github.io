@@ -10,7 +10,7 @@ layout: no-sidebar
 
 ## Course Description
 
-UC Berkeley Data 88E: Econonomic Models aims to motivate and illustrate key concepts in economics through a series of exercises and examples that use Python Jupyter notebooks. The class covers concepts from introductory economics, microeconomic theory, econometrics, development economics, environmental economics and public economics. The course provides data science students a pathway to apply Python programming and data science concepts within the discipline of economics. The course will also gives economics students a pathway to apply programming to reinforce fundamental concepts and to advance the level of study in upper division coursework and possible thesis work.
+UC Berkeley Data 88E: Economic Models aims to motivate and illustrate key concepts in economics through a series of exercises and examples that use Python Jupyter notebooks. The class covers concepts from introductory economics, microeconomic theory, econometrics, development economics, environmental economics and public economics. The course provides data science students a pathway to apply Python programming and data science concepts within the discipline of economics. The course will also gives economics students a pathway to apply programming to reinforce fundamental concepts and to advance the level of study in upper division coursework and possible thesis work.
 
 ## Offerings
 
